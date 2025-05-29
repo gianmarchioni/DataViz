@@ -1,0 +1,366 @@
+,date,top_artists,top_1,top_2,top_3
+0,2023-01-01,"['David Byrne', 'Miley Cyrus', 'The Pointer Sisters']",David Byrne,Miley Cyrus,The Pointer Sisters
+1,2023-01-02,"['Tanya Tucker', 'The Pointer Sisters', 'Tammy Wynette']",Tanya Tucker,The Pointer Sisters,Tammy Wynette
+2,2023-01-03,"['Whitney Houston', 'Tammy Wynette', 'XXXTentacion']",Whitney Houston,Tammy Wynette,XXXTentacion
+3,2023-01-04,"['XXXTentacion', 'Whitney Houston', 'Tammy Wynette']",XXXTentacion,Whitney Houston,Tammy Wynette
+4,2023-01-05,"['Shania Twain', 'XXXTentacion', 'Whitney Houston']",Shania Twain,XXXTentacion,Whitney Houston
+5,2023-01-06,"['XXXTentacion', 'David Bowie', 'Whitney Houston']",XXXTentacion,David Bowie,Whitney Houston
+6,2023-01-07,"['Rod Stewart', 'Freddie Mercury', 'Jessie J']",Rod Stewart,Freddie Mercury,Jessie J
+7,2023-01-08,"['David Bowie', 'Tammy Wynette', 'Kate Hudson']",David Bowie,Tammy Wynette,Kate Hudson
+8,2023-01-09,"['Tammy Wynette', 'Hans Zimmer', 'XXXTentacion']",Tammy Wynette,Hans Zimmer,XXXTentacion
+9,2023-01-10,"['Anna Kendrick', 'XXXTentacion', 'Tammy Wynette']",Anna Kendrick,XXXTentacion,Tammy Wynette
+10,2023-01-11,"['Jeff Beck', 'Eddie Murphy', 'Austin Butler']",Jeff Beck,Eddie Murphy,Austin Butler
+11,2023-01-12,"['Jeff Beck', 'The Yardbirds', 'Austin Butler']",Jeff Beck,The Yardbirds,Austin Butler
+12,2023-01-13,"['Michael Jackson', 'Jeff Beck', 'Austin Butler']",Michael Jackson,Jeff Beck,Austin Butler
+13,2023-01-14,"['Jeff Beck', 'Austin Butler', 'Shakira']",Jeff Beck,Austin Butler,Shakira
+14,2023-01-15,"['Shakira', 'Austin Butler', 'Jeff Beck']",Shakira,Austin Butler,Jeff Beck
+15,2023-01-16,"['Shakira', 'Austin Butler', 'Miley Cyrus']",Shakira,Austin Butler,Miley Cyrus
+16,2023-01-17,"['Shakira', 'Miley Cyrus', 'Madonna']",Shakira,Miley Cyrus,Madonna
+17,2023-01-18,"['Miley Cyrus', 'Shakira', 'Madonna']",Miley Cyrus,Shakira,Madonna
+18,2023-01-19,"['David Crosby', 'Miley Cyrus', 'Shakira']",David Crosby,Miley Cyrus,Shakira
+19,2023-01-20,"['David Crosby', 'The Byrds', 'Miley Cyrus']",David Crosby,The Byrds,Miley Cyrus
+20,2023-01-21,"['David Crosby', 'Miley Cyrus', 'XXXTentacion']",David Crosby,Miley Cyrus,XXXTentacion
+21,2023-01-22,"['David Crosby', 'Miley Cyrus', 'XXXTentacion']",David Crosby,Miley Cyrus,XXXTentacion
+22,2023-01-23,"['XXXTentacion', 'Miley Cyrus', 'David Crosby']",XXXTentacion,Miley Cyrus,David Crosby
+23,2023-01-24,"['Miley Cyrus', 'XXXTentacion', 'Maya Rudolph']",Miley Cyrus,XXXTentacion,Maya Rudolph
+24,2023-01-25,"['Paris Hilton', 'Roberta Flack', 'Miley Cyrus']",Paris Hilton,Roberta Flack,Miley Cyrus
+25,2023-01-26,"['Miley Cyrus', 'XXXTentacion', 'Paris Hilton']",Miley Cyrus,XXXTentacion,Paris Hilton
+26,2023-01-27,"['XXXTentacion', 'Miley Cyrus', 'Sam Smith']",XXXTentacion,Miley Cyrus,Sam Smith
+27,2023-01-28,"['XXXTentacion', 'Julia Louis-Dreyfus', 'Miley Cyrus']",XXXTentacion,Julia Louis-Dreyfus,Miley Cyrus
+28,2023-01-29,"['Anita Baker', 'Bradley Cooper', 'XXXTentacion']",Anita Baker,Bradley Cooper,XXXTentacion
+29,2023-01-30,"['XXXTentacion', 'Marc Anthony', 'Megan Mullally']",XXXTentacion,Marc Anthony,Megan Mullally
+30,2023-01-31,"['Penny Marshall', 'Michael McKean', 'XXXTentacion']",Penny Marshall,Michael McKean,XXXTentacion
+31,2023-02-01,"['Penny Marshall', 'XXXTentacion', 'Ozzy Osbourne']",Penny Marshall,XXXTentacion,Ozzy Osbourne
+32,2023-02-02,"['XXXTentacion', 'Ozzy Osbourne', 'Sally Field']",XXXTentacion,Ozzy Osbourne,Sally Field
+33,2023-02-03,"['Austin Butler', 'XXXTentacion', 'Shania Twain']",Austin Butler,XXXTentacion,Shania Twain
+34,2023-02-04,"['Vani Jairam', 'Lewis Capaldi', 'XXXTentacion']",Vani Jairam,Lewis Capaldi,XXXTentacion
+35,2023-02-05,"['Vani Jairam', 'XXXTentacion', 'Salma Hayek']",Vani Jairam,XXXTentacion,Salma Hayek
+36,2023-02-06,"['Kim Petras', 'Brandi Carlile', 'Bonnie Raitt']",Kim Petras,Brandi Carlile,Bonnie Raitt
+37,2023-02-07,"['Kim Petras', 'Sam Smith', 'Madonna']",Kim Petras,Sam Smith,Madonna
+38,2023-02-08,"['Kim Petras', 'Madonna', 'XXXTentacion']",Kim Petras,Madonna,XXXTentacion
+39,2023-02-09,"['Kim Petras', 'XXXTentacion', 'Madonna']",Kim Petras,XXXTentacion,Madonna
+40,2023-02-10,"['Salma Hayek', 'Rihanna', 'XXXTentacion']",Salma Hayek,Rihanna,XXXTentacion
+41,2023-02-11,"['Salma Hayek', 'Sam Smith', 'Rihanna']",Salma Hayek,Sam Smith,Rihanna
+42,2023-02-12,"['Rihanna', 'Chris Stapleton', 'Sheryl Lee Ralph']",Rihanna,Chris Stapleton,Sheryl Lee Ralph
+43,2023-02-13,"['Rihanna', 'Chris Brown', 'Bradley Cooper']",Rihanna,Chris Brown,Bradley Cooper
+44,2023-02-14,"['Rihanna', 'Paris Hilton', 'Ezra Miller']",Rihanna,Paris Hilton,Ezra Miller
+45,2023-02-15,"['Raquel Welch', 'Rihanna', 'XXXTentacion']",Raquel Welch,Rihanna,XXXTentacion
+46,2023-02-16,"['Raquel Welch', 'Bruce Willis', 'Rihanna']",Raquel Welch,Bruce Willis,Rihanna
+47,2023-02-17,"['Bruce Willis', 'Raquel Welch', 'Rihanna']",Bruce Willis,Raquel Welch,Rihanna
+48,2023-02-18,"['Raquel Welch', 'Bruce Willis', 'Rihanna']",Raquel Welch,Bruce Willis,Rihanna
+49,2023-02-19,"['Raquel Welch', 'Bruce Willis', 'Rihanna']",Raquel Welch,Bruce Willis,Rihanna
+50,2023-02-20,"['Rihanna', 'Post Malone', 'Raquel Welch']",Rihanna,Post Malone,Raquel Welch
+51,2023-02-21,"['Hayden Panettiere', 'Rihanna', 'XXXTentacion']",Hayden Panettiere,Rihanna,XXXTentacion
+52,2023-02-22,"['XXXTentacion', 'Hannah Waddingham', 'Hayden Panettiere']",XXXTentacion,Hannah Waddingham,Hayden Panettiere
+53,2023-02-23,"['Lewis Capaldi', 'R. Kelly', 'XXXTentacion']",Lewis Capaldi,R. Kelly,XXXTentacion
+54,2023-02-24,"['Lewis Capaldi', 'R. Kelly', 'XXXTentacion']",Lewis Capaldi,R. Kelly,XXXTentacion
+55,2023-02-25,"['Linda Ronstadt', 'XXXTentacion', 'Lewis Capaldi']",Linda Ronstadt,XXXTentacion,Lewis Capaldi
+56,2023-02-26,"['Olivia Newton-John', 'XXXTentacion', 'Jack White']",Olivia Newton-John,XXXTentacion,Jack White
+57,2023-02-27,"['Sally Field', 'Zendaya', 'XXXTentacion']",Sally Field,Zendaya,XXXTentacion
+58,2023-02-28,"['Steven Seagal', 'XXXTentacion', 'Selena Gomez']",Steven Seagal,XXXTentacion,Selena Gomez
+59,2023-03-01,"['Ed Sheeran', 'Selena Gomez', 'XXXTentacion']",Ed Sheeran,Selena Gomez,XXXTentacion
+60,2023-03-02,"['Selena Gomez', 'Ed Sheeran', 'XXXTentacion']",Selena Gomez,Ed Sheeran,XXXTentacion
+61,2023-03-03,"['Selena Gomez', 'XXXTentacion', 'Bruce Willis']",Selena Gomez,XXXTentacion,Bruce Willis
+62,2023-03-04,"['XXXTentacion', 'Selena Gomez', 'Russell Brand']",XXXTentacion,Selena Gomez,Russell Brand
+63,2023-03-05,"['XXXTentacion', 'Selena Gomez', 'Lele Pons']",XXXTentacion,Selena Gomez,Lele Pons
+64,2023-03-06,"['Lynyrd Skynyrd', 'Bruce Willis', 'David Byrne']",Lynyrd Skynyrd,Bruce Willis,David Byrne
+65,2023-03-07,"['Niall Horan', 'Avril Lavigne', 'Lynyrd Skynyrd']",Niall Horan,Avril Lavigne,Lynyrd Skynyrd
+66,2023-03-08,"['Niall Horan', 'Avril Lavigne', 'Russell Brand']",Niall Horan,Avril Lavigne,Russell Brand
+67,2023-03-09,"['Michael Bolton', 'XXXTentacion', 'Bruce Willis']",Michael Bolton,XXXTentacion,Bruce Willis
+68,2023-03-10,"['XXXTentacion', 'Miley Cyrus', 'Russell Brand']",XXXTentacion,Miley Cyrus,Russell Brand
+69,2023-03-11,"['Stevie Nicks', 'XXXTentacion', 'Miley Cyrus']",Stevie Nicks,XXXTentacion,Miley Cyrus
+70,2023-03-12,"['Austin Butler', 'XXXTentacion', 'Miley Cyrus']",Austin Butler,XXXTentacion,Miley Cyrus
+71,2023-03-13,"['Sarah Polley', 'Angela Bassett', 'Lady Gaga']",Sarah Polley,Angela Bassett,Lady Gaga
+72,2023-03-14,"['Niall Horan', 'Angela Bassett', 'XXXTentacion']",Niall Horan,Angela Bassett,XXXTentacion
+73,2023-03-15,"['XXXTentacion', 'Alia Bhatt', 'Niall Horan']",XXXTentacion,Alia Bhatt,Niall Horan
+74,2023-03-16,"['XXXTentacion', 'Scarlett Johansson', 'Zachary Levi']",XXXTentacion,Scarlett Johansson,Zachary Levi
+75,2023-03-17,"['Taylor Swift', 'Keanu Reeves', 'XXXTentacion']",Taylor Swift,Keanu Reeves,XXXTentacion
+76,2023-03-18,"['Toni Collette', 'Taylor Swift', 'Keanu Reeves']",Toni Collette,Taylor Swift,Keanu Reeves
+77,2023-03-19,"['Taylor Swift', 'Keanu Reeves', 'Bruce Willis']",Taylor Swift,Keanu Reeves,Bruce Willis
+78,2023-03-20,"['Bruce Willis', 'Keanu Reeves', 'Taylor Swift']",Bruce Willis,Keanu Reeves,Taylor Swift
+79,2023-03-21,"['Bruce Willis', 'XXXTentacion', 'Niall Horan']",Bruce Willis,XXXTentacion,Niall Horan
+80,2023-03-22,"['Bruce Willis', 'Gwyneth Paltrow', 'XXXTentacion']",Bruce Willis,Gwyneth Paltrow,XXXTentacion
+81,2023-03-23,"['Keanu Reeves', 'Gwyneth Paltrow', 'XXXTentacion']",Keanu Reeves,Gwyneth Paltrow,XXXTentacion
+82,2023-03-24,"['Gwyneth Paltrow', 'Keanu Reeves', 'XXXTentacion']",Gwyneth Paltrow,Keanu Reeves,XXXTentacion
+83,2023-03-25,"['Gwyneth Paltrow', 'Keanu Reeves', 'Andrew Lloyd Webber']",Gwyneth Paltrow,Keanu Reeves,Andrew Lloyd Webber
+84,2023-03-26,"['Keanu Reeves', 'Andrew Lloyd Webber', 'Daniel Radcliffe']",Keanu Reeves,Andrew Lloyd Webber,Daniel Radcliffe
+85,2023-03-27,"['Adam Sandler', 'Keanu Reeves', 'Gwyneth Paltrow']",Adam Sandler,Keanu Reeves,Gwyneth Paltrow
+86,2023-03-28,"['Keanu Reeves', 'Gwyneth Paltrow', 'Adam Sandler']",Keanu Reeves,Gwyneth Paltrow,Adam Sandler
+87,2023-03-29,"['Keanu Reeves', 'Gwyneth Paltrow', 'XXXTentacion']",Keanu Reeves,Gwyneth Paltrow,XXXTentacion
+88,2023-03-30,"['Keanu Reeves', 'Gwyneth Paltrow', 'XXXTentacion']",Keanu Reeves,Gwyneth Paltrow,XXXTentacion
+89,2023-03-31,"['Gwyneth Paltrow', 'Keanu Reeves', 'XXXTentacion']",Gwyneth Paltrow,Keanu Reeves,XXXTentacion
+90,2023-04-01,"['Keanu Reeves', 'Joni Mitchell', 'Gwyneth Paltrow']",Keanu Reeves,Joni Mitchell,Gwyneth Paltrow
+91,2023-04-02,"['Keanu Reeves', 'Adam Sandler', 'John Cena']",Keanu Reeves,Adam Sandler,John Cena
+92,2023-04-03,"['Lainey Wilson', 'Shania Twain', 'Keanu Reeves']",Lainey Wilson,Shania Twain,Keanu Reeves
+93,2023-04-04,"['Keanu Reeves', 'Meghan Trainor', 'Robert Downey Jr.']",Keanu Reeves,Meghan Trainor,Robert Downey Jr.
+94,2023-04-05,"['Luis Enrique', 'Lewis Capaldi', 'Keanu Reeves']",Luis Enrique,Lewis Capaldi,Keanu Reeves
+95,2023-04-06,"['Lewis Capaldi', 'Keanu Reeves', 'Ryan Gosling']",Lewis Capaldi,Keanu Reeves,Ryan Gosling
+96,2023-04-07,"['S Club 7', 'Coolio', 'Lewis Capaldi']",S Club 7,Coolio,Lewis Capaldi
+97,2023-04-08,"['S Club 7', 'Keanu Reeves', 'Lewis Capaldi']",S Club 7,Keanu Reeves,Lewis Capaldi
+98,2023-04-09,"['Joe Alwyn', 'Taylor Swift', 'Tina Turner']",Joe Alwyn,Taylor Swift,Tina Turner
+99,2023-04-10,"['The Beach Boys', 'Joe Alwyn', 'Brian Wilson']",The Beach Boys,Joe Alwyn,Brian Wilson
+100,2023-04-11,"['Jon Bon Jovi', 'Taylor Swift', 'Joe Alwyn']",Jon Bon Jovi,Taylor Swift,Joe Alwyn
+101,2023-04-12,"['Jon Bon Jovi', 'Steven Yeun', 'Taylor Swift']",Jon Bon Jovi,Steven Yeun,Taylor Swift
+102,2023-04-13,"['Steven Yeun', 'Jamie Foxx', 'Taylor Swift']",Steven Yeun,Jamie Foxx,Taylor Swift
+103,2023-04-14,"['Jamie Foxx', 'Steven Yeun', 'Taylor Swift']",Jamie Foxx,Steven Yeun,Taylor Swift
+104,2023-04-15,"['Jamie Foxx', 'Steven Yeun', 'Keanu Reeves']",Jamie Foxx,Steven Yeun,Keanu Reeves
+105,2023-04-16,"['Keanu Reeves', 'Steven Yeun', 'Jamie Foxx']",Keanu Reeves,Steven Yeun,Jamie Foxx
+106,2023-04-17,"['Keanu Reeves', 'Frank Ocean', 'Steven Yeun']",Keanu Reeves,Frank Ocean,Steven Yeun
+107,2023-04-18,"['Keanu Reeves', 'Miley Cyrus', 'Frank Ocean']",Keanu Reeves,Miley Cyrus,Frank Ocean
+108,2023-04-19,"['Keanu Reeves', 'Taylor Swift', 'Steven Yeun']",Keanu Reeves,Taylor Swift,Steven Yeun
+109,2023-04-20,"['Frank Ocean', 'Taylor Swift', 'Keanu Reeves']",Frank Ocean,Taylor Swift,Keanu Reeves
+110,2023-04-21,"['Avicii', 'Scarlett Johansson', 'Taylor Swift']",Avicii,Scarlett Johansson,Taylor Swift
+111,2023-04-22,"['Whitney Houston', 'XXXTentacion', 'Scarlett Johansson']",Whitney Houston,XXXTentacion,Scarlett Johansson
+112,2023-04-23,"['Whitney Houston', 'Lionel Richie', 'XXXTentacion']",Whitney Houston,Lionel Richie,XXXTentacion
+113,2023-04-24,"['Whitney Houston', 'Lionel Richie', 'XXXTentacion']",Whitney Houston,Lionel Richie,XXXTentacion
+114,2023-04-25,"['Whitney Houston', 'Lionel Richie', 'XXXTentacion']",Whitney Houston,Lionel Richie,XXXTentacion
+115,2023-04-26,"['Whitney Houston', 'Lionel Richie', 'Daniel Radcliffe']",Whitney Houston,Lionel Richie,Daniel Radcliffe
+116,2023-04-27,"['Whitney Houston', 'Cher', 'Priyanka Chopra']",Whitney Houston,Cher,Priyanka Chopra
+117,2023-04-28,"['Whitney Houston', 'Priyanka Chopra', 'XXXTentacion']",Whitney Houston,Priyanka Chopra,XXXTentacion
+118,2023-04-29,"['Whitney Houston', 'Priyanka Chopra', 'Keanu Reeves']",Whitney Houston,Priyanka Chopra,Keanu Reeves
+119,2023-04-30,"['Whitney Houston', 'Mark Selby', 'Priyanka Chopra']",Whitney Houston,Mark Selby,Priyanka Chopra
+120,2023-05-01,"['Mark Selby', 'Priyanka Chopra', 'Whitney Houston']",Mark Selby,Priyanka Chopra,Whitney Houston
+121,2023-05-02,"['Jared Leto', 'Doja Cat', 'Priyanka Chopra']",Jared Leto,Doja Cat,Priyanka Chopra
+122,2023-05-03,"['Jamie Foxx', 'XXXTentacion', 'Priyanka Chopra']",Jamie Foxx,XXXTentacion,Priyanka Chopra
+123,2023-05-04,"['Carrie Fisher', 'Jamie Foxx', 'Ed Sheeran']",Carrie Fisher,Jamie Foxx,Ed Sheeran
+124,2023-05-05,"['Carrie Fisher', 'Zendaya', 'Ed Sheeran']",Carrie Fisher,Zendaya,Ed Sheeran
+125,2023-05-06,"['Taylor Swift', 'XXXTentacion', 'Lionel Richie']",Taylor Swift,XXXTentacion,Lionel Richie
+126,2023-05-07,"['Katy Perry', 'Lionel Richie', 'Bad Bunny']",Katy Perry,Lionel Richie,Bad Bunny
+127,2023-05-08,"['Alanis Morissette', 'Katy Perry', 'Ed Sheeran']",Alanis Morissette,Katy Perry,Ed Sheeran
+128,2023-05-09,"['Hannah Waddingham', 'Taylor Swift', 'XXXTentacion']",Hannah Waddingham,Taylor Swift,XXXTentacion
+129,2023-05-10,"['Hannah Waddingham', 'XXXTentacion', 'Taylor Swift']",Hannah Waddingham,XXXTentacion,Taylor Swift
+130,2023-05-11,"['Jamie Foxx', 'Hannah Waddingham', 'XXXTentacion']",Jamie Foxx,Hannah Waddingham,XXXTentacion
+131,2023-05-12,"['Hannah Waddingham', 'Jamie Foxx', 'Priyanka Chopra']",Hannah Waddingham,Jamie Foxx,Priyanka Chopra
+132,2023-05-13,"['Hannah Waddingham', 'Taylor Swift', 'Priyanka Chopra']",Hannah Waddingham,Taylor Swift,Priyanka Chopra
+133,2023-05-14,"['Hannah Waddingham', 'Taylor Swift', 'Kate Winslet']",Hannah Waddingham,Taylor Swift,Kate Winslet
+134,2023-05-15,"['Hannah Waddingham', 'Kate Winslet', 'Taylor Swift']",Hannah Waddingham,Kate Winslet,Taylor Swift
+135,2023-05-16,"['XXXTentacion', 'Kim Petras', 'Taylor Swift']",XXXTentacion,Kim Petras,Taylor Swift
+136,2023-05-17,"['XXXTentacion', 'Taylor Swift', 'Kim Petras']",XXXTentacion,Taylor Swift,Kim Petras
+137,2023-05-18,"['XXXTentacion', 'Taylor Swift', 'Johnny Depp']",XXXTentacion,Taylor Swift,Johnny Depp
+138,2023-05-19,"['XXXTentacion', 'Nick Cannon', 'Taylor Swift']",XXXTentacion,Nick Cannon,Taylor Swift
+139,2023-05-20,"['Nick Cannon', 'XXXTentacion', 'Taylor Swift']",Nick Cannon,XXXTentacion,Taylor Swift
+140,2023-05-21,"['Donna Summer', 'Nick Cannon', 'XXXTentacion']",Donna Summer,Nick Cannon,XXXTentacion
+141,2023-05-22,"['Nick Cannon', 'XXXTentacion', 'Lauren Daigle']",Nick Cannon,XXXTentacion,Lauren Daigle
+142,2023-05-23,"['XXXTentacion', 'Nick Cannon', 'Taylor Swift']",XXXTentacion,Nick Cannon,Taylor Swift
+143,2023-05-24,"['Tina Turner', 'Niall Horan', 'XXXTentacion']",Tina Turner,Niall Horan,XXXTentacion
+144,2023-05-25,"['Tina Turner', 'XXXTentacion', 'Taylor Swift']",Tina Turner,XXXTentacion,Taylor Swift
+145,2023-05-26,"['Tina Turner', 'XXXTentacion', 'Taylor Swift']",Tina Turner,XXXTentacion,Taylor Swift
+146,2023-05-27,"['Tina Turner', 'XXXTentacion', 'Taylor Swift']",Tina Turner,XXXTentacion,Taylor Swift
+147,2023-05-28,"['Tina Turner', 'XXXTentacion', 'Taylor Swift']",Tina Turner,XXXTentacion,Taylor Swift
+148,2023-05-29,"['Tina Turner', 'Sidhu Moose Wala', 'XXXTentacion']",Tina Turner,Sidhu Moose Wala,XXXTentacion
+149,2023-05-30,"['Tina Turner', 'Bruce Willis', 'Bee Gees']",Tina Turner,Bruce Willis,Bee Gees
+150,2023-05-31,"['Tina Turner', 'Bruce Willis', ""Beverly D'Angelo""]",Tina Turner,Bruce Willis,Beverly D'Angelo
+151,2023-06-01,"['Bruce Willis', 'Tina Turner', 'Andrew Lloyd Webber']",Bruce Willis,Tina Turner,Andrew Lloyd Webber
+152,2023-06-02,"['Tina Turner', 'Bruce Willis', 'Jamie Foxx']",Tina Turner,Bruce Willis,Jamie Foxx
+153,2023-06-03,"['Tina Turner', 'Taylor Swift', 'XXXTentacion']",Tina Turner,Taylor Swift,XXXTentacion
+154,2023-06-04,"['Tina Turner', 'Taylor Swift', 'Tila Tequila']",Tina Turner,Taylor Swift,Tila Tequila
+155,2023-06-05,"['Taylor Swift', 'Vanessa Paradis', 'Tina Turner']",Taylor Swift,Vanessa Paradis,Tina Turner
+156,2023-06-06,"['Astrud Gilberto', 'Taylor Swift', 'Kanye West']",Astrud Gilberto,Taylor Swift,Kanye West
+157,2023-06-07,"['Astrud Gilberto', 'Taylor Swift', 'XXXTentacion']",Astrud Gilberto,Taylor Swift,XXXTentacion
+158,2023-06-08,"['Taylor Swift', 'XXXTentacion', 'Astrud Gilberto']",Taylor Swift,XXXTentacion,Astrud Gilberto
+159,2023-06-09,"['Taylor Swift', 'Johnny Depp', 'XXXTentacion']",Taylor Swift,Johnny Depp,XXXTentacion
+160,2023-06-10,"['Barry Manilow', 'Taylor Swift', 'XXXTentacion']",Barry Manilow,Taylor Swift,XXXTentacion
+161,2023-06-11,"['Taylor Swift', 'Freddie Mercury', 'XXXTentacion']",Taylor Swift,Freddie Mercury,XXXTentacion
+162,2023-06-12,"['BTS', 'Ariana DeBose', 'Taylor Swift']",BTS,Ariana DeBose,Taylor Swift
+163,2023-06-13,"['Ezra Miller', 'XXXTentacion', 'Taylor Swift']",Ezra Miller,XXXTentacion,Taylor Swift
+164,2023-06-14,"['Ezra Miller', 'XXXTentacion', 'Eminem']",Ezra Miller,XXXTentacion,Eminem
+165,2023-06-15,"['XXXTentacion', 'Ezra Miller', 'Eminem']",XXXTentacion,Ezra Miller,Eminem
+166,2023-06-16,"['Ezra Miller', 'Golshifteh Farahani', 'XXXTentacion']",Ezra Miller,Golshifteh Farahani,XXXTentacion
+167,2023-06-17,"['Golshifteh Farahani', 'George Michael', 'Ezra Miller']",Golshifteh Farahani,George Michael,Ezra Miller
+168,2023-06-18,"['Golshifteh Farahani', 'Ezra Miller', 'XXXTentacion']",Golshifteh Farahani,Ezra Miller,XXXTentacion
+169,2023-06-19,"['Ezra Miller', 'Bebe Rexha', 'Golshifteh Farahani']",Ezra Miller,Bebe Rexha,Golshifteh Farahani
+170,2023-06-20,"['Bebe Rexha', 'Ezra Miller', 'Taylor Swift']",Bebe Rexha,Ezra Miller,Taylor Swift
+171,2023-06-21,"['Zendaya', 'Taylor Swift', 'Golshifteh Farahani']",Zendaya,Taylor Swift,Golshifteh Farahani
+172,2023-06-22,"['Taylor Swift', 'Zendaya', 'XXXTentacion']",Taylor Swift,Zendaya,XXXTentacion
+173,2023-06-23,"['Arctic Monkeys', 'Kim Petras', 'Dave Grohl']",Arctic Monkeys,Kim Petras,Dave Grohl
+174,2023-06-24,"[""Guns N' Roses"", 'Lewis Capaldi', 'Lizzo']",Guns N' Roses,Lewis Capaldi,Lizzo
+175,2023-06-25,"['Elton John', 'Cat Stevens', 'Lewis Capaldi']",Elton John,Cat Stevens,Lewis Capaldi
+176,2023-06-26,"['Elton John', 'Lewis Capaldi', 'Cat Stevens']",Elton John,Lewis Capaldi,Cat Stevens
+177,2023-06-27,"['Lewis Capaldi', 'Elton John', 'Taylor Swift']",Lewis Capaldi,Elton John,Taylor Swift
+178,2023-06-28,"['Lewis Capaldi', 'Madonna', 'Taylor Swift']",Lewis Capaldi,Madonna,Taylor Swift
+179,2023-06-29,"['Madonna', 'Lewis Capaldi', 'Taylor Swift']",Madonna,Lewis Capaldi,Taylor Swift
+180,2023-06-30,"['Taylor Swift', 'Madonna', 'XXXTentacion']",Taylor Swift,Madonna,XXXTentacion
+181,2023-07-01,"['Taylor Swift', 'XXXTentacion', 'Madonna']",Taylor Swift,XXXTentacion,Madonna
+182,2023-07-02,"['Taylor Swift', 'XXXTentacion', 'Alia Bhatt']",Taylor Swift,XXXTentacion,Alia Bhatt
+183,2023-07-03,"['Taylor Swift', 'Jackie Chan', 'XXXTentacion']",Taylor Swift,Jackie Chan,XXXTentacion
+184,2023-07-04,"['Jackie Chan', 'Taylor Swift', 'XXXTentacion']",Jackie Chan,Taylor Swift,XXXTentacion
+185,2023-07-05,"['George Michael', 'Taylor Swift', 'Jackie Chan']",George Michael,Taylor Swift,Jackie Chan
+186,2023-07-06,"['George Michael', 'Keke Palmer', 'Taylor Swift']",George Michael,Keke Palmer,Taylor Swift
+187,2023-07-07,"['Taylor Swift', 'George Michael', 'Bob Marley']",Taylor Swift,George Michael,Bob Marley
+188,2023-07-08,"['George Michael', 'Taylor Swift', 'Bee Gees']",George Michael,Taylor Swift,Bee Gees
+189,2023-07-09,"['George Michael', 'Taylor Swift', 'Florence Pugh']",George Michael,Taylor Swift,Florence Pugh
+190,2023-07-10,"['George Michael', 'Taylor Swift', 'Ryan Gosling']",George Michael,Taylor Swift,Ryan Gosling
+191,2023-07-11,"['George Michael', 'Taylor Swift', 'Ryan Gosling']",George Michael,Taylor Swift,Ryan Gosling
+192,2023-07-12,"['Amy Winehouse', 'Taylor Swift', 'George Michael']",Amy Winehouse,Taylor Swift,George Michael
+193,2023-07-13,"['George Michael', 'Taylor Swift', 'Ryan Gosling']",George Michael,Taylor Swift,Ryan Gosling
+194,2023-07-14,"['Taylor Swift', 'George Michael', 'Florence Pugh']",Taylor Swift,George Michael,Florence Pugh
+195,2023-07-15,"['George Michael', 'Taylor Swift', 'Ray Davies']",George Michael,Taylor Swift,Ray Davies
+196,2023-07-16,"['Jane Birkin', 'Charlotte Gainsbourg', 'Lou Doillon']",Jane Birkin,Charlotte Gainsbourg,Lou Doillon
+197,2023-07-17,"['Jane Birkin', 'Charlotte Gainsbourg', 'Lou Doillon']",Jane Birkin,Charlotte Gainsbourg,Lou Doillon
+198,2023-07-18,"['Jane Birkin', 'Taylor Swift', 'XXXTentacion']",Jane Birkin,Taylor Swift,XXXTentacion
+199,2023-07-19,"['Tupac Shakur', 'Jane Birkin', 'Ryan Gosling']",Tupac Shakur,Jane Birkin,Ryan Gosling
+200,2023-07-20,"['Ethan Slater', 'Ryan Gosling', 'Taylor Swift']",Ethan Slater,Ryan Gosling,Taylor Swift
+201,2023-07-21,"['Ryan Gosling', 'Florence Pugh', 'Ethan Slater']",Ryan Gosling,Florence Pugh,Ethan Slater
+202,2023-07-22,"['Ryan Gosling', 'Florence Pugh', 'Taylor Swift']",Ryan Gosling,Florence Pugh,Taylor Swift
+203,2023-07-23,"['Ryan Gosling', 'Florence Pugh', 'Taylor Swift']",Ryan Gosling,Florence Pugh,Taylor Swift
+204,2023-07-24,"['Ryan Gosling', 'Florence Pugh', 'Taylor Swift']",Ryan Gosling,Florence Pugh,Taylor Swift
+205,2023-07-25,"['Ryan Gosling', 'Florence Pugh', 'Taylor Swift']",Ryan Gosling,Florence Pugh,Taylor Swift
+206,2023-07-26,"['Mick Jagger', 'Ryan Gosling', 'Peter Gabriel']",Mick Jagger,Ryan Gosling,Peter Gabriel
+207,2023-07-27,"['Ryan Gosling', 'Ethan Slater', 'Peter Gabriel']",Ryan Gosling,Ethan Slater,Peter Gabriel
+208,2023-07-28,"['Ryan Gosling', 'Travis Scott', 'Ethan Slater']",Ryan Gosling,Travis Scott,Ethan Slater
+209,2023-07-29,"['Ryan Gosling', 'Taylor Swift', 'Florence Pugh']",Ryan Gosling,Taylor Swift,Florence Pugh
+210,2023-07-30,"['Ryan Gosling', 'Florence Pugh', 'Taylor Swift']",Ryan Gosling,Florence Pugh,Taylor Swift
+211,2023-07-31,"['Ryan Gosling', 'Florence Pugh', 'Taylor Swift']",Ryan Gosling,Florence Pugh,Taylor Swift
+212,2023-08-01,"['Ryan Gosling', 'Zendaya', 'Taylor Swift']",Ryan Gosling,Zendaya,Taylor Swift
+213,2023-08-02,"['Lizzo', 'Ryan Gosling', 'Taylor Swift']",Lizzo,Ryan Gosling,Taylor Swift
+214,2023-08-03,"['Lizzo', 'Jisoo', 'Taylor Swift']",Lizzo,Jisoo,Taylor Swift
+215,2023-08-04,"['Taylor Swift', 'Ryan Gosling', 'Lizzo']",Taylor Swift,Ryan Gosling,Lizzo
+216,2023-08-05,"['Taylor Swift', 'Ryan Gosling', 'Alia Bhatt']",Taylor Swift,Ryan Gosling,Alia Bhatt
+217,2023-08-06,"['Taylor Swift', 'Ryan Gosling', 'Alia Bhatt']",Taylor Swift,Ryan Gosling,Alia Bhatt
+218,2023-08-07,"['Taylor Swift', 'Ryan Gosling', 'Alia Bhatt']",Taylor Swift,Ryan Gosling,Alia Bhatt
+219,2023-08-08,"['Wayne Brady', 'Taylor Swift', 'Ryan Gosling']",Wayne Brady,Taylor Swift,Ryan Gosling
+220,2023-08-09,"['Tory Lanez', 'Megan Thee Stallion', 'Taylor Swift']",Tory Lanez,Megan Thee Stallion,Taylor Swift
+221,2023-08-10,"['Taylor Swift', 'The Band', 'Rajinikanth']",Taylor Swift,The Band,Rajinikanth
+222,2023-08-11,"['Taylor Swift', 'Alia Bhatt', 'Rajinikanth']",Taylor Swift,Alia Bhatt,Rajinikanth
+223,2023-08-12,"['Alia Bhatt', 'Taylor Swift', 'Rajinikanth']",Alia Bhatt,Taylor Swift,Rajinikanth
+224,2023-08-13,"['Alia Bhatt', 'Taylor Swift', 'Rajinikanth']",Alia Bhatt,Taylor Swift,Rajinikanth
+225,2023-08-14,"['Alia Bhatt', 'Taylor Swift', 'Rajinikanth']",Alia Bhatt,Taylor Swift,Rajinikanth
+226,2023-08-15,"['Zooey Deschanel', 'Alia Bhatt', 'Taylor Swift']",Zooey Deschanel,Alia Bhatt,Taylor Swift
+227,2023-08-16,"['Alia Bhatt', 'Taylor Swift', 'Madonna']",Alia Bhatt,Taylor Swift,Madonna
+228,2023-08-17,"['Britney Spears', 'Johnny Depp', 'Alia Bhatt']",Britney Spears,Johnny Depp,Alia Bhatt
+229,2023-08-18,"['Britney Spears', 'Johnny Depp', 'Alia Bhatt']",Britney Spears,Johnny Depp,Alia Bhatt
+230,2023-08-19,"['Jack Antonoff', 'Johnny Depp', 'Taylor Swift']",Jack Antonoff,Johnny Depp,Taylor Swift
+231,2023-08-20,"['Jack Antonoff', 'Johnny Depp', 'Taylor Swift']",Jack Antonoff,Johnny Depp,Taylor Swift
+232,2023-08-21,"['Jack Antonoff', 'Alia Bhatt', 'Taylor Swift']",Jack Antonoff,Alia Bhatt,Taylor Swift
+233,2023-08-22,"['Taylor Swift', 'Jack Antonoff', 'Alia Bhatt']",Taylor Swift,Jack Antonoff,Alia Bhatt
+234,2023-08-23,"['Mary Elizabeth Winstead', 'Taylor Swift', 'Alia Bhatt']",Mary Elizabeth Winstead,Taylor Swift,Alia Bhatt
+235,2023-08-24,"['Mary Elizabeth Winstead', 'Alia Bhatt', 'Taylor Swift']",Mary Elizabeth Winstead,Alia Bhatt,Taylor Swift
+236,2023-08-25,"['Miley Cyrus', 'Taylor Swift', 'Alia Bhatt']",Miley Cyrus,Taylor Swift,Alia Bhatt
+237,2023-08-26,"['Adam Sandler', 'Ryan Gosling', 'Mary Elizabeth Winstead']",Adam Sandler,Ryan Gosling,Mary Elizabeth Winstead
+238,2023-08-27,"['Adam Sandler', 'Steve Harvey', 'Taylor Swift']",Adam Sandler,Steve Harvey,Taylor Swift
+239,2023-08-28,"['Adam Sandler', 'Taylor Swift', 'Ryan Gosling']",Adam Sandler,Taylor Swift,Ryan Gosling
+240,2023-08-29,"['Ryan Gosling', 'Adam Sandler', 'Amy Winehouse']",Ryan Gosling,Adam Sandler,Amy Winehouse
+241,2023-08-30,"['Adam Sandler', 'Ryan Gosling', 'Michael Jackson']",Adam Sandler,Ryan Gosling,Michael Jackson
+242,2023-08-31,"['Adam Sandler', 'Taylor Swift', 'Alia Bhatt']",Adam Sandler,Taylor Swift,Alia Bhatt
+243,2023-09-01,"['Taylor Swift', 'Adam Sandler', 'Alia Bhatt']",Taylor Swift,Adam Sandler,Alia Bhatt
+244,2023-09-02,"['Jimmy Buffett', 'Adam Sandler', 'Taylor Swift']",Jimmy Buffett,Adam Sandler,Taylor Swift
+245,2023-09-03,"['Jimmy Buffett', 'Adam Sandler', 'Taylor Swift']",Jimmy Buffett,Adam Sandler,Taylor Swift
+246,2023-09-04,"['Jimmy Buffett', 'Adam Sandler', 'Priyanka Chopra']",Jimmy Buffett,Adam Sandler,Priyanka Chopra
+247,2023-09-05,"['Jimmy Buffett', 'Freddie Mercury', 'Mark Wahlberg']",Jimmy Buffett,Freddie Mercury,Mark Wahlberg
+248,2023-09-06,"['Jimmy Buffett', 'The Rolling Stones', 'Mick Jagger']",Jimmy Buffett,The Rolling Stones,Mick Jagger
+249,2023-09-07,"['Jimmy Buffett', 'The Rolling Stones', 'Mick Jagger']",Jimmy Buffett,The Rolling Stones,Mick Jagger
+250,2023-09-08,"['Olivia Rodrigo', 'Mark Wahlberg', 'Jimmy Buffett']",Olivia Rodrigo,Mark Wahlberg,Jimmy Buffett
+251,2023-09-09,"['Mark Wahlberg', 'Olivia Rodrigo', 'Amy Winehouse']",Mark Wahlberg,Olivia Rodrigo,Amy Winehouse
+252,2023-09-10,"['Grimes', 'Olivia Rodrigo', 'Jimmy Buffett']",Grimes,Olivia Rodrigo,Jimmy Buffett
+253,2023-09-11,"['Grimes', 'Olivia Rodrigo', 'Alia Bhatt']",Grimes,Olivia Rodrigo,Alia Bhatt
+254,2023-09-12,"['Grimes', 'Olivia Rodrigo', 'Alia Bhatt']",Grimes,Olivia Rodrigo,Alia Bhatt
+255,2023-09-13,"['Olivia Rodrigo', 'Shakira', 'Taylor Swift']",Olivia Rodrigo,Shakira,Taylor Swift
+256,2023-09-14,"['Taylor Swift', 'Olivia Rodrigo', 'Selena Gomez']",Taylor Swift,Olivia Rodrigo,Selena Gomez
+257,2023-09-15,"['Hugh Jackman', 'Taylor Swift', 'Olivia Rodrigo']",Hugh Jackman,Taylor Swift,Olivia Rodrigo
+258,2023-09-16,"['Russell Brand', 'Hugh Jackman', 'Taylor Swift']",Russell Brand,Hugh Jackman,Taylor Swift
+259,2023-09-17,"['Russell Brand', 'Taylor Swift', 'Katy Perry']",Russell Brand,Taylor Swift,Katy Perry
+260,2023-09-18,"['Russell Brand', 'Katy Perry', 'Taylor Swift']",Russell Brand,Katy Perry,Taylor Swift
+261,2023-09-19,"['Russell Brand', 'Taylor Swift', 'Missy Elliott']",Russell Brand,Taylor Swift,Missy Elliott
+262,2023-09-20,"['Taylor Swift', 'Russell Brand', 'Olivia Rodrigo']",Taylor Swift,Russell Brand,Olivia Rodrigo
+263,2023-09-21,"['Taylor Swift', 'Russell Brand', 'Olivia Rodrigo']",Taylor Swift,Russell Brand,Olivia Rodrigo
+264,2023-09-22,"['Taylor Swift', 'Russell Brand', 'Olivia Rodrigo']",Taylor Swift,Russell Brand,Olivia Rodrigo
+265,2023-09-23,"['Russell Brand', 'Taylor Swift', 'Kylie Minogue']",Russell Brand,Taylor Swift,Kylie Minogue
+266,2023-09-24,"['Taylor Swift', 'Alia Bhatt', 'Russell Brand']",Taylor Swift,Alia Bhatt,Russell Brand
+267,2023-09-25,"['Taylor Swift', 'Bruce Willis', 'Russell Brand']",Taylor Swift,Bruce Willis,Russell Brand
+268,2023-09-26,"['Taylor Swift', 'Niall Horan', 'Bruce Willis']",Taylor Swift,Niall Horan,Bruce Willis
+269,2023-09-27,"['Taylor Swift', 'Damian Lillard', 'Jason Mraz']",Taylor Swift,Damian Lillard,Jason Mraz
+270,2023-09-28,"['Taylor Swift', 'Damian Lillard', 'Alia Bhatt']",Taylor Swift,Damian Lillard,Alia Bhatt
+271,2023-09-29,"['Tupac Shakur', 'Toby Keith', 'Taylor Swift']",Tupac Shakur,Toby Keith,Taylor Swift
+272,2023-09-30,"['Tupac Shakur', 'Taylor Swift', 'The Notorious B.I.G.']",Tupac Shakur,Taylor Swift,The Notorious B.I.G.
+273,2023-10-01,"['Taylor Swift', 'Tupac Shakur', 'Alia Bhatt']",Taylor Swift,Tupac Shakur,Alia Bhatt
+274,2023-10-02,"['Taylor Swift', 'Tupac Shakur', 'Alia Bhatt']",Taylor Swift,Tupac Shakur,Alia Bhatt
+275,2023-10-03,"['Taylor Swift', 'Niall Horan', 'Alia Bhatt']",Taylor Swift,Niall Horan,Alia Bhatt
+276,2023-10-04,"['Taylor Swift', 'Victoria Beckham', 'Niall Horan']",Taylor Swift,Victoria Beckham,Niall Horan
+277,2023-10-05,"['Victoria Beckham', 'Taylor Swift', 'Alia Bhatt']",Victoria Beckham,Taylor Swift,Alia Bhatt
+278,2023-10-06,"['Victoria Beckham', 'Taylor Swift', 'Sufjan Stevens']",Victoria Beckham,Taylor Swift,Sufjan Stevens
+279,2023-10-07,"['Victoria Beckham', 'Taylor Swift', 'Sufjan Stevens']",Victoria Beckham,Taylor Swift,Sufjan Stevens
+280,2023-10-08,"['Victoria Beckham', 'Taylor Swift', 'Alia Bhatt']",Victoria Beckham,Taylor Swift,Alia Bhatt
+281,2023-10-09,"['Victoria Beckham', 'Taylor Swift', 'Alia Bhatt']",Victoria Beckham,Taylor Swift,Alia Bhatt
+282,2023-10-10,"['Victoria Beckham', 'Taylor Swift', 'Niall Horan']",Victoria Beckham,Taylor Swift,Niall Horan
+283,2023-10-11,"['Victoria Beckham', 'Jada Pinkett Smith', 'Will Smith']",Victoria Beckham,Jada Pinkett Smith,Will Smith
+284,2023-10-12,"['Victoria Beckham', 'Taylor Swift', 'John Denver']",Victoria Beckham,Taylor Swift,John Denver
+285,2023-10-13,"['Taylor Swift', 'Victoria Beckham', 'Jada Pinkett Smith']",Taylor Swift,Victoria Beckham,Jada Pinkett Smith
+286,2023-10-14,"['Taylor Swift', 'KSI', 'Victoria Beckham']",Taylor Swift,KSI,Victoria Beckham
+287,2023-10-15,"['Suzanne Somers', 'Taylor Swift', 'KSI']",Suzanne Somers,Taylor Swift,KSI
+288,2023-10-16,"['Suzanne Somers', 'Taylor Swift', 'Jada Pinkett Smith']",Suzanne Somers,Taylor Swift,Jada Pinkett Smith
+289,2023-10-17,"['Suzanne Somers', 'Taylor Swift', 'Jada Pinkett Smith']",Suzanne Somers,Taylor Swift,Jada Pinkett Smith
+290,2023-10-18,"['Suzanne Somers', 'Justin Timberlake', 'Taylor Swift']",Suzanne Somers,Justin Timberlake,Taylor Swift
+291,2023-10-19,"['Robert Downey Jr.', 'Suzanne Somers', 'Taylor Swift']",Robert Downey Jr.,Suzanne Somers,Taylor Swift
+292,2023-10-20,"['Haydn Gwynne', 'Robert Downey Jr.', 'Taylor Swift']",Haydn Gwynne,Robert Downey Jr.,Taylor Swift
+293,2023-10-21,"['Taylor Swift', 'Haydn Gwynne', 'Fleetwood Mac']",Taylor Swift,Haydn Gwynne,Fleetwood Mac
+294,2023-10-22,"['Taylor Swift', 'Bad Bunny', 'Victoria Beckham']",Taylor Swift,Bad Bunny,Victoria Beckham
+295,2023-10-23,"['Taylor Swift', 'Bad Bunny', 'Tim Curry']",Taylor Swift,Bad Bunny,Tim Curry
+296,2023-10-24,"['Taylor Swift', 'Britney Spears', 'Tim Curry']",Taylor Swift,Britney Spears,Tim Curry
+297,2023-10-25,"['Taylor Swift', 'Bruce Willis', 'Olivia Rodrigo']",Taylor Swift,Bruce Willis,Olivia Rodrigo
+298,2023-10-26,"['Taylor Swift', 'Bruce Willis', 'Britney Spears']",Taylor Swift,Bruce Willis,Britney Spears
+299,2023-10-27,"['Taylor Swift', 'Britney Spears', 'Buffy Sainte-Marie']",Taylor Swift,Britney Spears,Buffy Sainte-Marie
+300,2023-10-28,"['Taylor Swift', 'Buffy Sainte-Marie', 'Britney Spears']",Taylor Swift,Buffy Sainte-Marie,Britney Spears
+301,2023-10-29,"['Taylor Swift', 'Bruce Willis', 'Britney Spears']",Taylor Swift,Bruce Willis,Britney Spears
+302,2023-10-30,"['Taylor Swift', 'XXXTentacion', 'Buffy Sainte-Marie']",Taylor Swift,XXXTentacion,Buffy Sainte-Marie
+303,2023-10-31,"['Taylor Swift', 'XXXTentacion', 'Alia Bhatt']",Taylor Swift,XXXTentacion,Alia Bhatt
+304,2023-11-01,"['Taylor Swift', 'XXXTentacion', 'Alia Bhatt']",Taylor Swift,XXXTentacion,Alia Bhatt
+305,2023-11-02,"['Taylor Swift', 'The Beatles', 'XXXTentacion']",Taylor Swift,The Beatles,XXXTentacion
+306,2023-11-03,"['The Beatles', 'Taylor Swift', 'XXXTentacion']",The Beatles,Taylor Swift,XXXTentacion
+307,2023-11-04,"['Taylor Swift', 'Bruce Willis', 'The Beatles']",Taylor Swift,Bruce Willis,The Beatles
+308,2023-11-05,"['Bruce Willis', 'Taylor Swift', 'Barbra Streisand']",Bruce Willis,Taylor Swift,Barbra Streisand
+309,2023-11-06,"['Barbra Streisand', 'Bruce Willis', 'Taylor Swift']",Barbra Streisand,Bruce Willis,Taylor Swift
+310,2023-11-07,"['Barbra Streisand', 'Bruce Willis', 'Taylor Swift']",Barbra Streisand,Bruce Willis,Taylor Swift
+311,2023-11-08,"['Robbie Williams', 'Paula Abdul', 'Taylor Swift']",Robbie Williams,Paula Abdul,Taylor Swift
+312,2023-11-09,"['Lainey Wilson', 'Robbie Williams', 'Tracy Chapman']",Lainey Wilson,Robbie Williams,Tracy Chapman
+313,2023-11-10,"['Robbie Williams', 'Tracy Chapman', 'Taylor Swift']",Robbie Williams,Tracy Chapman,Taylor Swift
+314,2023-11-11,"['Robbie Williams', 'Taylor Swift', 'XXXTentacion']",Robbie Williams,Taylor Swift,XXXTentacion
+315,2023-11-12,"['Taylor Swift', 'Robbie Williams', 'Andrea Bocelli']",Taylor Swift,Robbie Williams,Andrea Bocelli
+316,2023-11-13,"['Taylor Swift', 'Robbie Williams', 'XXXTentacion']",Taylor Swift,Robbie Williams,XXXTentacion
+317,2023-11-14,"['Taylor Swift', 'Robbie Williams', 'XXXTentacion']",Taylor Swift,Robbie Williams,XXXTentacion
+318,2023-11-15,"['Taylor Swift', 'XXXTentacion', 'Robbie Williams']",Taylor Swift,XXXTentacion,Robbie Williams
+319,2023-11-16,"['Taylor Swift', 'Nicole Kidman', 'XXXTentacion']",Taylor Swift,Nicole Kidman,XXXTentacion
+320,2023-11-17,"['Sean Combs', 'Taylor Swift', 'Snoop Dogg']",Sean Combs,Taylor Swift,Snoop Dogg
+321,2023-11-18,"['Sean Combs', 'Taylor Swift', 'Dua Lipa']",Sean Combs,Taylor Swift,Dua Lipa
+322,2023-11-19,"['Taylor Swift', 'Britney Spears', 'Robbie Williams']",Taylor Swift,Britney Spears,Robbie Williams
+323,2023-11-20,"['Taylor Swift', 'Robert Pattinson', 'Britney Spears']",Taylor Swift,Robert Pattinson,Britney Spears
+324,2023-11-21,"['Taylor Swift', 'Britney Spears', 'XXXTentacion']",Taylor Swift,Britney Spears,XXXTentacion
+325,2023-11-22,"['Taylor Swift', 'XXXTentacion', 'Britney Spears']",Taylor Swift,XXXTentacion,Britney Spears
+326,2023-11-23,"['Cher', 'Jack Harlow', 'David Foster']",Cher,Jack Harlow,David Foster
+327,2023-11-24,"['Cher', 'Taylor Swift', 'Paris Hilton']",Cher,Taylor Swift,Paris Hilton
+328,2023-11-25,"['Taylor Swift', 'XXXTentacion', 'Cher']",Taylor Swift,XXXTentacion,Cher
+329,2023-11-26,"['Bruce Willis', 'Taylor Swift', 'XXXTentacion']",Bruce Willis,Taylor Swift,XXXTentacion
+330,2023-11-27,"['Bruce Willis', 'Taylor Swift', 'XXXTentacion']",Bruce Willis,Taylor Swift,XXXTentacion
+331,2023-11-28,"['XXXTentacion', 'Taylor Swift', 'Alia Bhatt']",XXXTentacion,Taylor Swift,Alia Bhatt
+332,2023-11-29,"['Taylor Swift', 'Jason Mraz', 'XXXTentacion']",Taylor Swift,Jason Mraz,XXXTentacion
+333,2023-11-30,"['Barry Manilow', 'The Pogues', 'Cher']",Barry Manilow,The Pogues,Cher
+334,2023-12-01,"['Cher', 'The Pogues', 'Taylor Swift']",Cher,The Pogues,Taylor Swift
+335,2023-12-02,"['Brenda Song', 'Cher', ""Catherine O'Hara""]",Brenda Song,Cher,Catherine O'Hara
+336,2023-12-03,"['Brenda Song', 'Billie Eilish', 'Cher']",Brenda Song,Billie Eilish,Cher
+337,2023-12-04,"['Brenda Song', 'Billie Eilish', 'Taylor Swift']",Brenda Song,Billie Eilish,Taylor Swift
+338,2023-12-05,"['Brenda Song', 'Nelly', 'XXXTentacion']",Brenda Song,Nelly,XXXTentacion
+339,2023-12-06,"['Taylor Swift', 'Brenda Song', 'Jason Mraz']",Taylor Swift,Brenda Song,Jason Mraz
+340,2023-12-07,"['Benjamin Zephaniah', 'Taylor Swift', 'XXXTentacion']",Benjamin Zephaniah,Taylor Swift,XXXTentacion
+341,2023-12-08,"['XXXTentacion', 'Benjamin Zephaniah', 'Taylor Swift']",XXXTentacion,Benjamin Zephaniah,Taylor Swift
+342,2023-12-09,"['Cher', 'XXXTentacion', 'Taylor Swift']",Cher,XXXTentacion,Taylor Swift
+343,2023-12-10,"['Eminem', 'Kylie Minogue', 'XXXTentacion']",Eminem,Kylie Minogue,XXXTentacion
+344,2023-12-11,"['XXXTentacion', 'Taylor Swift', 'Eminem']",XXXTentacion,Taylor Swift,Eminem
+345,2023-12-12,"['Barry Manilow', 'XXXTentacion', 'Taylor Swift']",Barry Manilow,XXXTentacion,Taylor Swift
+346,2023-12-13,"['XXXTentacion', 'Taylor Swift', 'Alia Bhatt']",XXXTentacion,Taylor Swift,Alia Bhatt
+347,2023-12-14,"['XXXTentacion', 'Taylor Swift', 'Brenda Song']",XXXTentacion,Taylor Swift,Brenda Song
+348,2023-12-15,"['XXXTentacion', 'Taylor Swift', 'Brenda Song']",XXXTentacion,Taylor Swift,Brenda Song
+349,2023-12-16,"['XXXTentacion', 'Cher', 'Taylor Swift']",XXXTentacion,Cher,Taylor Swift
+350,2023-12-17,"['XXXTentacion', 'Cher', 'Taylor Swift']",XXXTentacion,Cher,Taylor Swift
+351,2023-12-18,"['Kris Kristofferson', 'XXXTentacion', 'Taylor Swift']",Kris Kristofferson,XXXTentacion,Taylor Swift
+352,2023-12-19,"['XXXTentacion', 'Taylor Swift', 'Kris Kristofferson']",XXXTentacion,Taylor Swift,Kris Kristofferson
+353,2023-12-20,"['XXXTentacion', 'Niall Horan', 'Taylor Swift']",XXXTentacion,Niall Horan,Taylor Swift
+354,2023-12-21,"['XXXTentacion', 'Barry Manilow', 'Ne-Yo']",XXXTentacion,Barry Manilow,Ne-Yo
+355,2023-12-22,"['XXXTentacion', 'George Michael', 'Cher']",XXXTentacion,George Michael,Cher
+356,2023-12-23,"['XXXTentacion', 'The Chicks', 'George Michael']",XXXTentacion,The Chicks,George Michael
+357,2023-12-24,"['The Chicks', 'XXXTentacion', 'George Michael']",The Chicks,XXXTentacion,George Michael
+358,2023-12-25,"['XXXTentacion', 'The Chicks', 'George Michael']",XXXTentacion,The Chicks,George Michael
+359,2023-12-26,"['XXXTentacion', 'Bob Marley', 'Mariah Carey']",XXXTentacion,Bob Marley,Mariah Carey
+360,2023-12-27,"['XXXTentacion', 'Salman Khan', 'Alia Bhatt']",XXXTentacion,Salman Khan,Alia Bhatt
+361,2023-12-28,"['XXXTentacion', 'Cher', 'Queen Latifah']",XXXTentacion,Cher,Queen Latifah
+362,2023-12-29,"['XXXTentacion', 'Taylor Swift', 'Cher']",XXXTentacion,Taylor Swift,Cher
+363,2023-12-30,"['XXXTentacion', 'Tina Turner', 'Taylor Swift']",XXXTentacion,Tina Turner,Taylor Swift
+364,2023-12-31,"['XXXTentacion', 'Tina Turner', 'Taylor Swift']",XXXTentacion,Tina Turner,Taylor Swift

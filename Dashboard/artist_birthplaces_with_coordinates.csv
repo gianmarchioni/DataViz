@@ -1,0 +1,997 @@
+Artist,Birthplace,coordinates,latitude,longitude
+Taylor Swift,West Reading,"(40.3337038, -75.9474322)",40.3337038,-75.9474322
+XXXTentacion,Plantation,"(27.0637262, -82.3651631)",27.0637262,-82.3651631
+Alia Bhatt,India,"(22.3511148, 78.6677428)",22.3511148,78.6677428
+Tina Turner,Brownsville,"(25.9024289, -97.4981698)",25.9024289,-97.4981698
+Keanu Reeves,Beirut,"(33.8959203, 35.47843)",33.8959203,35.47843
+Rihanna,Saint Michael,"(13.1182985, -59.60157828479271)",13.1182985,-59.60157828479271
+Bruce Willis,Idar-Oberstein,"(49.7107134, 7.3136563)",49.7107134,7.3136563
+Michael Jackson,Gary,"(41.6020962, -87.3370646)",41.6020962,-87.3370646
+Ryan Gosling,London,"(51.5074456, -0.1277653)",51.5074456,-0.1277653
+Selena Gomez,Grand Prairie,"(32.7459645, -96.9977846)",32.7459645,-96.9977846
+Whitney Houston,Newark,"(40.735657, -74.1723667)",40.735657,-74.1723667
+Miley Cyrus,Nashville,"(36.1622767, -86.7742984)",36.1622767,-86.7742984
+Scarlett Johansson,Manhattan,"(40.7896239, -73.9598939)",40.7896239,-73.9598939
+Hannah Waddingham,Wandsworth,"(51.4570271, -0.1932607)",51.4570271,-0.1932607
+Eminem,St. Joseph,"(45.5645229, -94.3180516)",45.5645229,-94.3180516
+Kanye West,Atlanta,"(33.7489924, -84.3902644)",33.7489924,-84.3902644
+Florence Pugh,Oxford,"(51.7520131, -1.2578499)",51.7520131,-1.2578499
+Priyanka Chopra,Jamshedpur,"(22.8015194, 86.2029579)",22.8015194,86.2029579
+Tupac Shakur,Birthplace not found,"(None, None)",,
+Freddie Mercury,Zanzibar City,"(-6.1664908, 39.2074312)",-6.1664908,39.2074312
+George Michael,East Finchley,"(51.5871881, -0.1648137)",51.5871881,-0.1648137
+Zendaya,Oakland,"(37.8044557, -122.271356)",37.8044557,-122.271356
+Johnny Depp,Birthplace not found,"(None, None)",,
+Madonna,Bay City,"(43.5944677, -83.8888648)",43.5944677,-83.8888648
+Cher,El Centro,"(32.792, -115.563051)",32.792,-115.563051
+Adam Sandler,Brooklyn,"(40.6526006, -73.9497211)",40.6526006,-73.9497211
+Dua Lipa,Westminster,"(51.5004439, -0.1265398)",51.5004439,-0.1265398
+Salma Hayek,Coatzacoalcos,"(18.1396787, -94.4501731)",18.1396787,-94.4501731
+Robert Downey Jr.,Manhattan,"(40.7896239, -73.9598939)",40.7896239,-73.9598939
+Shaquille O'Neal,Newark,"(40.735657, -74.1723667)",40.735657,-74.1723667
+Bradley Cooper,Philadelphia,"(39.9527237, -75.1635262)",39.9527237,-75.1635262
+Olivia Rodrigo,Murrieta,"(33.560832, -117.210656)",33.560832,-117.210656
+Britney Spears,McComb,"(31.2437872, -90.4531536)",31.2437872,-90.4531536
+Mark Wahlberg,Birthplace not found,"(None, None)",,
+Shakira,Barranquilla,"(10.9938698, -74.7927177)",10.9938698,-74.7927177
+Lady Gaga,Lenox Hill Hospital,"(40.77364275, -73.96086187105126)",40.77364275,-73.96086187105126
+David Bowie,Brixton,"(51.4568044, -0.1167959)",51.4568044,-0.1167959
+John Cena,Birthplace not found,"(None, None)",,
+Salman Khan,Indore,"(22.7203616, 75.8681996)",22.7203616,75.8681996
+Elton John,Pinner,"(51.5968712, -0.3770142)",51.5968712,-0.3770142
+Raquel Welch,Chicago,"(41.8755616, -87.6244212)",41.8755616,-87.6244212
+Jimmy Buffett,Pascagoula,"(30.3646795, -88.5585995)",30.3646795,-88.5585995
+BTS,Birthplace not found,"(None, None)",,
+The Beatles,Birthplace not found,"(None, None)",,
+Austin Butler,Anaheim,"(33.8347516, -117.911732)",33.8347516,-117.911732
+Joaquin Phoenix,Río Piedras,"(18.3974229, -66.050111)",18.3974229,-66.050111
+Katy Perry,Birthplace not found,"(None, None)",,
+Kate Winslet,Reading,"(51.4564242, -0.9700664)",51.4564242,-0.9700664
+Billie Eilish,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+Ezra Miller,Wyckoff,"(41.0095417, -74.1729222)",41.0095417,-74.1729222
+John Travolta,Englewood,"(39.6482059, -104.9879641)",39.6482059,-104.9879641
+The Weeknd,Toronto,"(43.6534817, -79.3839347)",43.6534817,-79.3839347
+Jennifer Connelly,Cairo,"(30.0443879, 31.2357257)",30.0443879,31.2357257
+Lewis Capaldi,Glasgow,"(55.861155, -4.2501687)",55.861155,-4.2501687
+Nicole Kidman,Honolulu,"(21.304547, -157.855676)",21.304547,-157.855676
+Gwyneth Paltrow,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+Ed Sheeran,Halifax,"(44.648618, -63.5859487)",44.648618,-63.5859487
+Will Smith,Philadelphia,"(39.9527237, -75.1635262)",39.9527237,-75.1635262
+Victoria Beckham,Harlow,"(51.7676194, 0.0974893)",51.7676194,0.0974893
+Snoop Dogg,Long Beach,"(33.7690164, -118.191604)",33.7690164,-118.191604
+Jackie Chan,Victoria Peak,"(22.2760386, 114.1454573)",22.2760386,114.1454573
+Jamie Foxx,Terrell,"(30.1990738, -102.0974881)",30.1990738,-102.0974881
+Anne Hathaway,Brooklyn,"(40.6526006, -73.9497211)",40.6526006,-73.9497211
+Bad Bunny,Vega Baja,"(18.4445314, -66.387587)",18.4445314,-66.387587
+Brie Larson,Sacramento,"(38.5810606, -121.493895)",38.5810606,-121.493895
+Daniel Radcliffe,Hammersmith,"(51.4920377, -0.2236401)",51.4920377,-0.2236401
+Paris Hilton,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+Fleetwood Mac,Birthplace not found,"(None, None)",,
+Nick Cannon,Birthplace not found,"(None, None)",,
+Stevie Nicks,Phoenix,"(33.4484367, -112.074141)",33.4484367,-112.074141
+Mariah Carey,Huntington,"(38.4192496, -82.445154)",38.4192496,-82.445154
+Russell Brand,Grays,"(51.4780898, 0.3233131)",51.4780898,0.3233131
+Europe,Birthplace not found,"(None, None)",,
+Bob Marley,Gullegem,"(50.8418565, 3.2045747)",50.8418565,3.2045747
+Doja Cat,Birthplace not found,"(None, None)",,
+Amy Winehouse,Birthplace not found,"(None, None)",,
+Eddie Murphy,Brooklyn,"(40.6526006, -73.9497211)",40.6526006,-73.9497211
+Post Malone,Syracuse,"(43.0481221, -76.1474244)",43.0481221,-76.1474244
+Nicki Minaj,Saint James,"(43.9824577, -94.6269181)",43.9824577,-94.6269181
+Mary Elizabeth Winstead,Rocky Mount,"(35.9423833, -77.7956949)",35.9423833,-77.7956949
+Kim Petras,Bonn,"(50.735851, 7.10066)",50.735851,7.10066
+Justin Timberlake,Memphis,"(35.1460249, -90.0517638)",35.1460249,-90.0517638
+Ozzy Osbourne,Marston Green,"(52.4668809, -1.7550948)",52.4668809,-1.7550948
+Shia LaBeouf,Birthplace not found,"(None, None)",,
+Zooey Deschanel,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+Suzanne Somers,San Bruno,"(37.6248536, -122.4145986)",37.6248536,-122.4145986
+Jeff Beck,Birthplace not found,"(None, None)",,
+Brenda Song,Carmichael,"(49.9172707, -108.6546946)",49.9172707,-108.6546946
+River Phoenix,Birthplace not found,"(None, None)",,
+Catherine Zeta-Jones,Swansea,"(51.6195955, -3.9459248)",51.6195955,-3.9459248
+Mick Jagger,Dartford,"(51.4443059, 0.21807)",51.4443059,0.21807
+Jared Leto,Bossier City,"(32.515887, -93.7336536)",32.515887,-93.7336536
+Bob Dylan,Duluth,"(46.7729322, -92.1251218)",46.7729322,-92.1251218
+Barbra Streisand,Brooklyn,"(40.6526006, -73.9497211)",40.6526006,-73.9497211
+Hailee Steinfeld,Tarzana,"(34.1689262, -118.5365791)",34.1689262,-118.5365791
+Adele,Tottenham,"(51.5976955, -0.0672892)",51.5976955,-0.0672892
+Niall Horan,Mullingar,"(53.525822, -7.341304)",53.525822,-7.341304
+Sam Smith,London,"(51.5074456, -0.1277653)",51.5074456,-0.1277653
+Shania Twain,Windsor,"(51.4837886, -0.6040418665032687)",51.4837886,-0.6040418665032687
+Phil Collins,Putney Hospital,"(31.59042535, -84.15758867013469)",31.59042535,-84.15758867013469
+Hugh Jackman,Sydney,"(-33.8698439, 151.2082848)",-33.8698439,151.2082848
+Patrick Swayze,Houston,"(29.7589382, -95.3676974)",29.7589382,-95.3676974
+Zayn Malik,Bradford,"(53.7944229, -1.7519186)",53.7944229,-1.7519186
+Jack Black,Santa Monica,"(34.0194704, -118.491227)",34.0194704,-118.491227
+Julia Louis-Dreyfus,Manhattan,"(40.7896239, -73.9598939)",40.7896239,-73.9598939
+Tim Curry,Grappenhall,"(53.3757332, -2.5477824)",53.3757332,-2.5477824
+ZoÃ« Kravitz,Birthplace not found,"(None, None)",,
+Carrie Fisher,United States of America,"(39.7837304, -100.445882)",39.7837304,-100.445882
+Anna Kendrick,Portland,"(45.5202471, -122.674194)",45.5202471,-122.674194
+Jay-Z,Birthplace not found,"(None, None)",,
+The Notorious B.I.G.,Birthplace not found,"(None, None)",,
+Rajinikanth,Bengaluru,"(12.9767936, 77.590082)",12.9767936,77.590082
+Amitabh Bachchan,Prayagraj,"(25.4381302, 81.8338005)",25.4381302,81.8338005
+Robert Pattinson,London,"(51.5074456, -0.1277653)",51.5074456,-0.1277653
+Gwen Stefani,Fullerton,"(33.8708215, -117.929416)",33.8708215,-117.929416
+The Rolling Stones,Birthplace not found,"(None, None)",,
+Travis Scott,Houston,"(29.7589382, -95.3676974)",29.7589382,-95.3676974
+Zac Efron,San Luis Obispo,"(35.3540209, -120.375716)",35.3540209,-120.375716
+Rita Ora,Pristina,"(42.6638771, 21.1640849)",42.6638771,21.1640849
+Metallica,Birthplace not found,"(None, None)",,
+Jesse Plemons,Dallas,"(32.7762719, -96.7968559)",32.7762719,-96.7968559
+Robbie Williams,Stoke-on-Trent,"(53.0162014, -2.1812607)",53.0162014,-2.1812607
+Kate Hudson,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+Cardi B,Birthplace not found,"(None, None)",,
+Michael Keaton,Coraopolis,"(40.5184013, -80.1667247)",40.5184013,-80.1667247
+Dakota Fanning,Conyers,"(33.6676103, -84.0176904)",33.6676103,-84.0176904
+Mayim Bialik,San Diego,"(32.7174202, -117.162772)",32.7174202,-117.162772
+Matthew Broderick,Manhattan,"(40.7896239, -73.9598939)",40.7896239,-73.9598939
+Kylie Minogue,Melbourne,"(-37.8142454, 144.9631732)",-37.8142454,144.9631732
+Awkwafina,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+Joe Alwyn,Birthplace not found,"(None, None)",,
+Chicago,Birthplace not found,"(None, None)",,
+Lainey Wilson,Baskin,"(32.2588885, -91.7471373)",32.2588885,-91.7471373
+Amanda Seyfried,Allentown,"(40.6022059, -75.4712794)",40.6022059,-75.4712794
+Aaliyah,Brooklyn,"(40.6526006, -73.9497211)",40.6526006,-73.9497211
+Steven Seagal,Lansing,"(42.7337712, -84.5553805)",42.7337712,-84.5553805
+Avril Lavigne,Belleville,"(48.8176714, 6.0982683)",48.8176714,6.0982683
+Dave Grohl,Warren,"(41.8119602, -79.2654452)",41.8119602,-79.2654452
+Kirsten Dunst,Point Pleasant,"(38.8445251, -82.1370889)",38.8445251,-82.1370889
+50 Cent,Birthplace not found,"(None, None)",,
+Sally Field,Pasadena,"(34.1476507, -118.144155)",34.1476507,-118.144155
+Jada Pinkett Smith,Baltimore,"(39.2908816, -76.610759)",39.2908816,-76.610759
+Gillian Anderson,Chicago,"(41.8755616, -87.6244212)",41.8755616,-87.6244212
+Ewan McGregor,Perth,"(-31.9558933, 115.8605855)",-31.9558933,115.8605855
+Antonio Banderas,Málaga,"(36.7213028, -4.4216366)",36.7213028,-4.4216366
+Bruce Springsteen,Long Branch,"(40.3042778, -73.9923596)",40.3042778,-73.9923596
+Lily James,Esher,"(51.3693938, -0.365415)",51.3693938,-0.365415
+Sean Combs,Harlem,"(40.8078786, -73.9454154)",40.8078786,-73.9454154
+Lionel Richie,Tuskegee,"(32.4240535, -85.6908715)",32.4240535,-85.6908715
+Ice Cube,Birthplace not found,"(None, None)",,
+Andrew Garfield,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+Angela Bassett,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+Michelle Pfeiffer,Santa Ana,"(33.7494951, -117.873221)",33.7494951,-117.873221
+Russell Crowe,Wellington,"(-41.2887953, 174.7772114)",-41.2887953,174.7772114
+Steve Harvey,Welch,"(37.4328886, -81.5844357)",37.4328886,-81.5844357
+Selena,Lake Jackson,"(29.0338575, -95.4343859)",29.0338575,-95.4343859
+Kelly Clarkson,Fort Worth,"(32.753177, -97.3327459)",32.753177,-97.3327459
+Chris Brown,Tappahannock,"(37.9254168, -76.8591362)",37.9254168,-76.8591362
+R. Kelly,Chicago,"(41.8755616, -87.6244212)",41.8755616,-87.6244212
+Lynyrd Skynyrd,Birthplace not found,"(None, None)",,
+Goldie Hawn,"Washington, D.C.","(38.8950368, -77.0365427)",38.8950368,-77.0365427
+Jimi Hendrix,Birthplace not found,"(None, None)",,
+Tyler Perry,Birthplace not found,"(None, None)",,
+ABBA,Birthplace not found,"(None, None)",,
+Bruno Mars,Honolulu,"(21.304547, -157.855676)",21.304547,-157.855676
+Olivia Newton-John,Cambridge,"(52.2055314, 0.1186637)",52.2055314,0.1186637
+Kiefer Sutherland,Birthplace not found,"(None, None)",,
+Jack Antonoff,Bergenfield,"(40.9275987, -73.9973608)",40.9275987,-73.9973608
+Grimes,Vancouver,"(49.2608724, -123.113952)",49.2608724,-123.113952
+Avicii,Stockholm,"(59.3251172, 18.0710935)",59.3251172,18.0710935
+Tracy Chapman,Cleveland,"(41.4996574, -81.6936772)",41.4996574,-81.6936772
+Yoko Ono,Tokyo,"(35.6821936, 139.762221)",35.6821936,139.762221
+Jane Birkin,London,"(51.5074456, -0.1277653)",51.5074456,-0.1277653
+Led Zeppelin,Birthplace not found,"(None, None)",,
+Rod Stewart,London,"(51.5074456, -0.1277653)",51.5074456,-0.1277653
+Joey King,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+Keke Palmer,Harvey,"(38.0352315, -97.4486267)",38.0352315,-97.4486267
+Eric Clapton,Ripley,"(36.6478735, -90.8887906)",36.6478735,-90.8887906
+N. T. Rama Rao Jr.,Hyderabad,"(17.360589, 78.4740613)",17.360589,78.4740613
+Bee Gees,Birthplace not found,"(None, None)",,
+Joe Pesci,Newark,"(40.735657, -74.1723667)",40.735657,-74.1723667
+Lizzo,Detroit,"(42.3315509, -83.0466403)",42.3315509,-83.0466403
+Kris Kristofferson,Brownsville,"(25.9024289, -97.4981698)",25.9024289,-97.4981698
+Depeche Mode,Birthplace not found,"(None, None)",,
+Guns N' Roses,Birthplace not found,"(None, None)",,
+Hayden Panettiere,Palisades,"(41.0111793, -73.91346)",41.0111793,-73.91346
+Amy Adams,Aviano,"(46.0685438, 12.5891138)",46.0685438,12.5891138
+Lenny Kravitz,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+Kristen Bell,Huntington Woods,"(42.4805913, -83.1668713)",42.4805913,-83.1668713
+Donald Glover,Edwards Air Force Base,"(34.900814, -117.94395332567805)",34.900814,-117.94395332567805
+David Crosby,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+Taron Egerton,Birkenhead,"(53.3895177, -3.0248007)",53.3895177,-3.0248007
+Stevie Wonder,Saginaw,"(43.4200387, -83.9490365)",43.4200387,-83.9490365
+Dr. Dre,Birthplace not found,"(None, None)",,
+Ranveer Singh,Birthplace not found,"(None, None)",,
+Kamal Haasan,Paramakudi,"(9.48671505, 78.67227177440276)",9.48671505,78.67227177440276
+Steven Yeun,Seoul,"(37.5666791, 126.9782914)",37.5666791,126.9782914
+Billy Joel,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+Red Hot Chili Peppers,Birthplace not found,"(None, None)",,
+Whoopi Goldberg,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+Janet Jackson,Gary,"(41.6020962, -87.3370646)",41.6020962,-87.3370646
+Seth MacFarlane,Kent,"(51.20707485, 0.7210361813401444)",51.20707485,0.7210361813401444
+Viggo Mortensen,Watertown,"(42.3652518, -71.1843236)",42.3652518,-71.1843236
+Keerthy Suresh,Chennai,"(13.0836939, 80.270186)",13.0836939,80.270186
+John Denver,Roswell,"(34.02332, -84.360022)",34.02332,-84.360022
+Zachary Levi,Lake Charles,"(30.2305095, -93.2169807)",30.2305095,-93.2169807
+Jon Bon Jovi,Perth Amboy,"(40.5200187, -74.2745215)",40.5200187,-74.2745215
+Linda Ronstadt,Tucson,"(32.2228765, -110.974847)",32.2228765,-110.974847
+Demi Lovato,Albuquerque,"(35.0841034, -106.650985)",35.0841034,-106.650985
+Catherine O'Hara,Toronto,"(43.6534817, -79.3839347)",43.6534817,-79.3839347
+Jack Harlow,Louisville,"(38.2542376, -85.759407)",38.2542376,-85.759407
+KSI,Birthplace not found,"(None, None)",,
+Alanis Morissette,Ottawa,"(45.4208777, -75.6901106)",45.4208777,-75.6901106
+Vanessa Paradis,Saint-Maur-des-Fossés,"(48.8033057, 2.4853015)",48.8033057,2.4853015
+Chevy Chase,Manhattan,"(40.7896239, -73.9598939)",40.7896239,-73.9598939
+Megan Thee Stallion,San Antonio,"(29.4246002, -98.4951405)",29.4246002,-98.4951405
+Bill Cosby,Philadelphia,"(39.9527237, -75.1635262)",39.9527237,-75.1635262
+Kendrick Lamar,Compton,"(33.894927, -118.226624)",33.894927,-118.226624
+Meghan Trainor,Nantucket,"(41.315731400000004, -70.00901408779944)",41.315731400000004,-70.00901408779944
+Don Johnson,Flat Creek,"(36.7633804, -93.602088)",36.7633804,-93.602088
+Maya Rudolph,Gainesville,"(29.6519684, -82.3249846)",29.6519684,-82.3249846
+Allu Arjun,Chennai,"(13.0836939, 80.270186)",13.0836939,80.270186
+Jisoo,Gunpo,"(37.3615229, 126.9349025)",37.3615229,126.9349025
+Shirley Temple,Santa Monica,"(34.0194704, -118.491227)",34.0194704,-118.491227
+Steven Tyler,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+Sanjay Dutt,Mumbai,"(18.9733536, 72.82810491917377)",18.9733536,72.82810491917377
+Tom Petty,Gainesville,"(29.6519684, -82.3249846)",29.6519684,-82.3249846
+Billy Bob Thornton,Hot Springs,"(34.5038393, -93.0552437)",34.5038393,-93.0552437
+Toni Collette,Glebe,"(-33.8777782, 151.1862377)",-33.8777782,151.1862377
+Tammy Wynette,Itawamba County,"(34.2774018, -88.3713687)",34.2774018,-88.3713687
+Cat Stevens,Marylebone,"(51.5232789, -0.155596)",51.5232789,-0.155596
+Janis Joplin,Port Arthur,"(29.8716577, -93.9332302)",29.8716577,-93.9332302
+Danny Elfman,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+Leighton Meester,Fort Worth,"(32.753177, -97.3327459)",32.753177,-97.3327459
+Ian McShane,Blackburn,"(53.749326, -2.4840566)",53.749326,-2.4840566
+Bella Thorne,Pembroke Pines,"(26.0061943, -80.2872086)",26.0061943,-80.2872086
+Hugh Laurie,Blackbird Leys,"(51.7232306, -1.1974296195411012)",51.7232306,-1.1974296195411012
+Martin Short,Ontario,"(50.000678, -86.000977)",50.000678,-86.000977
+Ann-Margret,Valsjöbyn,"(64.0674022, 14.1346138)",64.0674022,14.1346138
+Sidhu Moose Wala,Moosa,"(29.9773669, 75.3201285)",29.9773669,75.3201285
+Lin-Manuel Miranda,Manhattan,"(40.7896239, -73.9598939)",40.7896239,-73.9598939
+Idina Menzel,Manhattan,"(40.7896239, -73.9598939)",40.7896239,-73.9598939
+John Mayer,Bridgeport,"(41.1792695, -73.1887863)",41.1792695,-73.1887863
+David Foster,Birthplace not found,"(None, None)",,
+Alice Cooper,Detroit,"(42.3315509, -83.0466403)",42.3315509,-83.0466403
+Lauryn Hill,Newark,"(40.735657, -74.1723667)",40.735657,-74.1723667
+Queen Latifah,Newark,"(40.735657, -74.1723667)",40.735657,-74.1723667
+Marc Anthony,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+Barry Manilow,Brooklyn,"(40.6526006, -73.9497211)",40.6526006,-73.9497211
+Damian Lillard,Birthplace not found,"(None, None)",,
+Peso Pluma,Zapopan,"(20.7211203, -103.3913671)",20.7211203,-103.3913671
+Brigitte Nielsen,Rødovre,"(55.6812495, 12.4547294)",55.6812495,12.4547294
+Elisabeth Shue,Wilmington,"(39.7459468, -75.546589)",39.7459468,-75.546589
+David Lynch,St. Louis,"(38.6280278, -90.1910154)",38.6280278,-90.1910154
+Katey Sagal,Hollywood,"(34.0980031, -118.329523)",34.0980031,-118.329523
+RuPaul,San Diego,"(32.7174202, -117.162772)",32.7174202,-117.162772
+Dove Cameron,Bainbridge Island,"(47.6262688, -122.5209429)",47.6262688,-122.5209429
+Neil Young,Toronto,"(43.6534817, -79.3839347)",43.6534817,-79.3839347
+Sarah Silverman,Bedford,"(40.0271453, -78.5237447)",40.0271453,-78.5237447
+Robert Plant,West Bromwich,"(52.5186579, -1.9923114)",52.5186579,-1.9923114
+The Beach Boys,Birthplace not found,"(None, None)",,
+Hayley Williams,Meridian,"(32.3643098, -88.703656)",32.3643098,-88.703656
+Tim McGraw,Delhi,"(28.6273928, 77.1716954)",28.6273928,77.1716954
+Peter Gabriel,Chobham,"(51.3477705, -0.6010128)",51.3477705,-0.6010128
+Tessa Thompson,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+Andy Samberg,Berkeley,"(37.8708393, -122.272863)",37.8708393,-122.272863
+Neil Patrick Harris,Albuquerque,"(35.0841034, -106.650985)",35.0841034,-106.650985
+Joni Mitchell,Fort Macleod,"(49.7267379, -113.4076000973896)",49.7267379,-113.4076000973896
+Brandi Carlile,Ravensdale,"(47.3523376, -121.983716)",47.3523376,-121.983716
+Donna Summer,Boston,"(42.3554334, -71.060511)",42.3554334,-71.060511
+John Goodman,Affton,"(38.5521715, -90.3263911)",38.5521715,-90.3263911
+Hans Zimmer,Birthplace not found,"(None, None)",,
+Billy Ray Cyrus,Birthplace not found,"(None, None)",,
+Rita Wilson,Hollywood,"(34.0980031, -118.329523)",34.0980031,-118.329523
+Kim Basinger,Athens,"(33.9597677, -83.376398)",33.9597677,-83.376398
+Mandy Moore,Nashua,"(42.7656251, -71.4677032)",42.7656251,-71.4677032
+David Byrne,Dumbarton,"(55.9432443, -4.5708479)",55.9432443,-4.5708479
+John Stamos,Cypress,"(29.9691116, -95.6971686)",29.9691116,-95.6971686
+Neil Diamond,Brooklyn,"(40.6526006, -73.9497211)",40.6526006,-73.9497211
+Golshifteh Farahani,Tehran,"(35.6892523, 51.3896004)",35.6892523,51.3896004
+Andrea Bocelli,Birthplace not found,"(None, None)",,
+Pawan Kalyan,Bapatla,"(15.9052608, 80.4680501)",15.9052608,80.4680501
+Chris Farley,Madison,"(43.074761, -89.3837613)",43.074761,-89.3837613
+Paul Bettany,Birthplace not found,"(None, None)",,
+Beverly D'Angelo,Columbus,"(39.9622601, -83.0007065)",39.9622601,-83.0007065
+Backstreet Boys,Birthplace not found,"(None, None)",,
+BjÃ¶rk,Birthplace not found,"(None, None)",,
+Kid Rock,Romeo,"(42.802808, -83.0129874)",42.802808,-83.0129874
+The Chicks,Birthplace not found,"(None, None)",,
+Kristin Chenoweth,Broken Arrow,"(36.0525993, -95.7908195)",36.0525993,-95.7908195
+Dan Aykroyd,Ottawa,"(45.4208777, -75.6901106)",45.4208777,-75.6901106
+Blake Shelton,Ada,"(43.4136539, -116.2367421)",43.4136539,-116.2367421
+Jonathan Groff,Lancaster,"(40.08067, -76.2411283)",40.08067,-76.2411283
+Brian May,Hampton,"(37.0300969, -76.3452057)",37.0300969,-76.3452057
+Taraji P. Henson,"Washington, D.C.","(38.8950368, -77.0365427)",38.8950368,-77.0365427
+Camila Cabello,Cojímar,"(23.1670372, -82.2953815)",23.1670372,-82.2953815
+A. R. Rahman,Chennai,"(13.0836939, 80.270186)",13.0836939,80.270186
+Jonas Brothers,Birthplace not found,"(None, None)",,
+Beastie Boys,Birthplace not found,"(None, None)",,
+Allen Iverson,Birthplace not found,"(None, None)",,
+Chris Stapleton,Lexington,"(38.0464066, -84.4970393)",38.0464066,-84.4970393
+Alyssa Milano,Bensonhurst,"(40.6049772, -73.9934061)",40.6049772,-73.9934061
+Ice-T,Birthplace not found,"(None, None)",,
+Creedence Clearwater Revival,Birthplace not found,"(None, None)",,
+Bono,Birthplace not found,"(None, None)",,
+Bebe Rexha,Brooklyn,"(40.6526006, -73.9497211)",40.6526006,-73.9497211
+Andrew Lloyd Webber,Birthplace not found,"(None, None)",,
+Manny Pacquiao,Kibawe,"(7.5678321, 124.9903224)",7.5678321,124.9903224
+Morrissey,Davyhulme,"(53.4546079, -2.3677347)",53.4546079,-2.3677347
+Alicia Keys,Hell's Kitchen,"(40.7644228, -73.9923918)",40.7644228,-73.9923918
+Imagine Dragons,Birthplace not found,"(None, None)",,
+Brian Wilson,Inglewood,"(33.9562003, -118.353132)",33.9562003,-118.353132
+Paula Abdul,San Fernando,"(36.4646672, -6.1983492)",36.4646672,-6.1983492
+Minnie Driver,Marylebone,"(51.5232789, -0.155596)",51.5232789,-0.155596
+Ariana DeBose,Wilmington,"(39.7459468, -75.546589)",39.7459468,-75.546589
+Cyndi Lauper,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+Lee Majors,Wyandotte,"(39.1090458, -94.767624)",39.1090458,-94.767624
+Steven Van Zandt,Winthrop,"(42.3746525, -70.9825807)",42.3746525,-70.9825807
+Patrick Wilson,Norfolk,"(52.666667, 1.0)",52.666667,1.0
+Barbados,Birthplace not found,"(None, None)",,
+Molly Ringwald,Roseville,"(38.7521235, -121.2880059)",38.7521235,-121.2880059
+LL Cool J,Queens,"(40.7135078, -73.8283132)",40.7135078,-73.8283132
+Meat Loaf,Dallas,"(32.7762719, -96.7968559)",32.7762719,-96.7968559
+Big Bang,Birthplace not found,"(None, None)",,
+U2,Birthplace not found,"(None, None)",,
+Pharrell Williams,Virginia Beach,"(36.8529841, -75.9774183)",36.8529841,-75.9774183
+Vincent D'Onofrio,Brooklyn,"(40.6526006, -73.9497211)",40.6526006,-73.9497211
+Jason Alexander,Newark,"(40.735657, -74.1723667)",40.735657,-74.1723667
+Arctic Monkeys,Birthplace not found,"(None, None)",,
+Naya Rivera,Valencia,"(39.4697065, -0.3763353)",39.4697065,-0.3763353
+Frank Ocean,Long Beach,"(33.7690164, -118.191604)",33.7690164,-118.191604
+John Legend,Springfield,"(39.7990175, -89.6439575)",39.7990175,-89.6439575
+Tory Lanez,Brampton,"(43.685832, -79.7599366)",43.685832,-79.7599366
+MÃ¥neskin,Birthplace not found,"(None, None)",,
+Nelly,Austin,"(30.2711286, -97.7436995)",30.2711286,-97.7436995
+Lana Rhoades,Chicago,"(41.8755616, -87.6244212)",41.8755616,-87.6244212
+Nancy Sinatra,Jersey City,"(40.7215682, -74.047455)",40.7215682,-74.047455
+Carrie Underwood,Muskogee,"(35.6630196, -95.3927706)",35.6630196,-95.3927706
+Krysten Ritter,Birthplace not found,"(None, None)",,
+Megan Mullally,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+Wesley Snipes,Orlando,"(28.5421109, -81.3790304)",28.5421109,-81.3790304
+Eugene Levy,Birthplace not found,"(None, None)",,
+Michael Richards,Culver City,"(34.0211224, -118.396466)",34.0211224,-118.396466
+Becky G,Inglewood,"(33.9562003, -118.353132)",33.9562003,-118.353132
+Iron Maiden,Birthplace not found,"(None, None)",,
+Penny Marshall,The Bronx,"(40.8466508, -73.8785937)",40.8466508,-73.8785937
+Chaz Bono,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+Mike Myers,Scarborough,"(54.2820009, -0.4011868)",54.2820009,-0.4011868
+Radiohead,Birthplace not found,"(None, None)",,
+Grace Jones,Spanish Town,"(17.9956926, -76.9540831)",17.9956926,-76.9540831
+Iggy Azalea,Sydney,"(-33.8698439, 151.2082848)",-33.8698439,151.2082848
+Coolio,Monessen,"(40.1620497, -79.8876347)",40.1620497,-79.8876347
+Duran Duran,Birthplace not found,"(None, None)",,
+Miranda Cosgrove,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+Vanessa Williams,The Bronx,"(40.8466508, -73.8785937)",40.8466508,-73.8785937
+Daisy Ridley,London,"(51.5074456, -0.1277653)",51.5074456,-0.1277653
+Kid Cudi,Cleveland,"(41.4996574, -81.6936772)",41.4996574,-81.6936772
+Mohanlal,Elanthoor,"(9.2994214, 76.7294449)",9.2994214,76.7294449
+The Cure,Birthplace not found,"(None, None)",,
+Lil Nas X,Lithia Springs,"(33.7939953, -84.6604899)",33.7939953,-84.6604899
+Shelley Duvall,Fort Worth,"(32.753177, -97.3327459)",32.753177,-97.3327459
+Damon Albarn,London,"(51.5074456, -0.1277653)",51.5074456,-0.1277653
+Charlotte Gainsbourg,Marylebone,"(51.5232789, -0.155596)",51.5232789,-0.155596
+ZZ Top,Birthplace not found,"(None, None)",,
+RZA,Birthplace not found,"(None, None)",,
+Rammstein,Birthplace not found,"(None, None)",,
+Connie Britton,Boston,"(42.3554334, -71.060511)",42.3554334,-71.060511
+Boney M.,Birthplace not found,"(None, None)",,
+Jessie Buckley,Killarney,"(52.0595746, -9.505322)",52.0595746,-9.505322
+Adam Levine,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+Daveed Diggs,Birthplace not found,"(None, None)",,
+Keith Urban,Whangārei,"(-35.7275268, 174.3194202)",-35.7275268,174.3194202
+Sara Ramirez,Mazatlán,"(23.2035785, -106.4208391)",23.2035785,-106.4208391
+Joe Walsh,Wichita,"(37.6922361, -97.3375448)",37.6922361,-97.3375448
+Sheryl Crow,Kennett,"(36.2381082, -90.0551598)",36.2381082,-90.0551598
+Tom Felton,Epsom,"(51.3326098, -0.2678212)",51.3326098,-0.2678212
+Greta Van Fleet,Birthplace not found,"(None, None)",,
+Abigail Breslin,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+Jenny Slate,Milton,"(30.6324149, -87.0396881)",30.6324149,-87.0396881
+Michael McKean,Birthplace not found,"(None, None)",,
+Fall Out Boy,Birthplace not found,"(None, None)",,
+Scandinavia,Birthplace not found,"(None, None)",,
+Ludacris,Birthplace not found,"(None, None)",,
+Kate Bush,Bexleyheath,"(51.4634854, 0.1480552)",51.4634854,0.1480552
+Iggy Pop,Muskegon,"(43.2484584, -86.129351)",43.2484584,-86.129351
+Shawn Mendes,Pickering,"(43.835765, -79.090576)",43.835765,-79.090576
+H.E.R.,Vallejo,"(38.1040864, -122.2566367)",38.1040864,-122.2566367
+Bo Burnham,Birthplace not found,"(None, None)",,
+Garth Brooks,Tulsa,"(36.1563122, -95.9927516)",36.1563122,-95.9927516
+Alabama,Birthplace not found,"(None, None)",,
+Hiroyuki Sanada,Shinagawa-ku,"(35.599252, 139.73891)",35.599252,139.73891
+The Mamas & the Papas,Birthplace not found,"(None, None)",,
+Jon Batiste,Kenner,"(29.9942265, -90.2417806)",29.9942265,-90.2417806
+Linda McCartney,Scarsdale,"(40.9880495, -73.7974133)",40.9880495,-73.7974133
+Don Henley,Gilmer,"(34.6859788, -84.452696)",34.6859788,-84.452696
+Van Halen,Birthplace not found,"(None, None)",,
+Maya Angelou,St. Louis,"(38.6280278, -90.1910154)",38.6280278,-90.1910154
+Bryan Adams,Kingston,"(17.9712148, -76.7928128)",17.9712148,-76.7928128
+Kesha,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+Asia Argento,Rome,"(41.8933203, 12.4829321)",41.8933203,12.4829321
+Annie Lennox,Aberdeen,"(57.1482429, -2.0928095)",57.1482429,-2.0928095
+James Taylor,Boston,"(42.3554334, -71.060511)",42.3554334,-71.060511
+Jack White,Cologne,"(43.7218277, 0.9774958)",43.7218277,0.9774958
+Keith David,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+Aerosmith,Birthplace not found,"(None, None)",,
+Faith Hill,Ridgeland,"(32.4284761, -90.1323087)",32.4284761,-90.1323087
+Tyler James Williams,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+Carly Simon,The Bronx,"(40.8466508, -73.8785937)",40.8466508,-73.8785937
+Rage Against the Machine,Birthplace not found,"(None, None)",,
+Nelly Furtado,Victoria,"(-36.5986096, 144.6780052)",-36.5986096,144.6780052
+Anthony Ramos,Brooklyn,"(40.6526006, -73.9497211)",40.6526006,-73.9497211
+Billie Piper,Swindon,"(51.5613683, -1.7856853)",51.5613683,-1.7856853
+Jonathan Rhys Meyers,Dublin,"(53.3493795, -6.2605593)",53.3493795,-6.2605593
+Alex Borstein,Highland Park,"(32.8334607, -96.7919454)",32.8334607,-96.7919454
+Stevie Ray Vaughan,Birthplace not found,"(None, None)",,
+Jussie Smollett,Santa Rosa,"(38.4404925, -122.7141049)",38.4404925,-122.7141049
+Arijit Singh,Jiaganj Azimganj,"(24.238101, 88.261914)",24.238101,88.261914
+Norah Jones,Brooklyn,"(40.6526006, -73.9497211)",40.6526006,-73.9497211
+Sarah Polley,Toronto,"(43.6534817, -79.3839347)",43.6534817,-79.3839347
+Ben Platt,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+LeAnn Rimes,Jackson,"(32.2998686, -90.1830408)",32.2998686,-90.1830408
+Daft Punk,Birthplace not found,"(None, None)",,
+Bon Jovi,Birthplace not found,"(None, None)",,
+Dianna Agron,Savannah,"(32.0790074, -81.0921335)",32.0790074,-81.0921335
+John Mellencamp,Seymour,"(33.5942438, -99.2603073)",33.5942438,-99.2603073
+Jason Mraz,Mechanicsville,"(41.9044574, -91.2546067)",41.9044574,-91.2546067
+Trey Parker,Conifer,"(39.5233424, -105.305499)",39.5233424,-105.305499
+Toby Keith,Clinton,"(38.5896187, -89.420064)",38.5896187,-89.420064
+Israel KamakawiwoÊ»ole,Birthplace not found,"(None, None)",,
+Patti Smith,United States of America,"(39.7837304, -100.445882)",39.7837304,-100.445882
+Luther Vandross,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+Grateful Dead,Birthplace not found,"(None, None)",,
+Ethan Slater,"Washington, D.C.","(38.8950368, -77.0365427)",38.8950368,-77.0365427
+Rob Zombie,Haverhill,"(42.777433, -71.0773067)",42.777433,-71.0773067
+Drew Carey,Cleveland,"(41.4996574, -81.6936772)",41.4996574,-81.6936772
+Shreya Ghoshal,Durgapur,"(23.5350475, 87.3380425)",23.5350475,87.3380425
+Destiny's Child,Birthplace not found,"(None, None)",,
+Steely Dan,Birthplace not found,"(None, None)",,
+Mary J. Blige,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+Arrested Development,Birthplace not found,"(None, None)",,
+Martha Plimpton,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+David Gilmour,Cambridge,"(52.2055314, 0.1186637)",52.2055314,0.1186637
+The Band,Birthplace not found,"(None, None)",,
+Mark Ronson,Notting Hill,"(51.5109995, -0.2055267)",51.5109995,-0.2055267
+Randy Travis,Birthplace not found,"(None, None)",,
+Rajesh Khanna,Amritsar,"(31.6343083, 74.8736788)",31.6343083,74.8736788
+Mandy Patinkin,Chicago,"(41.8755616, -87.6244212)",41.8755616,-87.6244212
+Nick Cave,Warracknabeal,"(-36.2510282, 142.3953525)",-36.2510282,142.3953525
+Chance the Rapper,Chicago,"(41.8755616, -87.6244212)",41.8755616,-87.6244212
+Isabela Merced,Cleveland,"(41.4996574, -81.6936772)",41.4996574,-81.6936772
+Jessie J,Chadwell Heath,"(51.5700474, 0.1297842)",51.5700474,0.1297842
+Burna Boy,Port Harcourt,"(4.7676576, 7.0188527)",4.7676576,7.0188527
+Danny Glover,San Francisco,"(37.7792588, -122.4193286)",37.7792588,-122.4193286
+Mark Knopfler,Birthplace not found,"(None, None)",,
+Tom Waits,Pomona,"(34.0553813, -117.7517496)",34.0553813,-117.7517496
+Cybill Shepherd,Memphis,"(35.1460249, -90.0517638)",35.1460249,-90.0517638
+New Kids on the Block,Birthplace not found,"(None, None)",,
+Keith Carradine,San Mateo,"(37.496904, -122.3330573)",37.496904,-122.3330573
+Michael BublÃ©,Birthplace not found,"(None, None)",,
+Sheryl Lee Ralph,Waterbury,"(41.5538091, -73.0438362)",41.5538091,-73.0438362
+Tyler Childers,Lawrence County,"(41.001415, -80.350071)",41.001415,-80.350071
+Sissy Spacek,Quitman,"(31.8769847, -85.0154412)",31.8769847,-85.0154412
+Wayne Brady,Columbus,"(39.9622601, -83.0007065)",39.9622601,-83.0007065
+Willow Smith,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+Chris Jericho,Manhasset,"(40.7956894, -73.6989103)",40.7956894,-73.6989103
+Lou Reed,Brookdale University Hospital and Medical Center,"(None, None)",,
+The Yardbirds,Birthplace not found,"(None, None)",,
+George Strait,Poteet,"(29.0391241, -98.5748412)",29.0391241,-98.5748412
+Lorde,Auckland,"(-36.852095, 174.7631803)",-36.852095,174.7631803
+Charlie Puth,Rumson,"(40.372054, -73.9990269)",40.372054,-73.9990269
+Terrence Howard,Chicago,"(41.8755616, -87.6244212)",41.8755616,-87.6244212
+Tanya Tucker,Seminole,"(28.7225829, -81.2353683)",28.7225829,-81.2353683
+Pentatonix,Birthplace not found,"(None, None)",,
+Taryn Manning,Falls Church,"(38.882334, -77.1710914)",38.882334,-77.1710914
+Leslie Odom Jr.,Queens,"(40.7135078, -73.8283132)",40.7135078,-73.8283132
+Billy Connolly,Glasgow,"(55.861155, -4.2501687)",55.861155,-4.2501687
+Dire Straits,Birthplace not found,"(None, None)",,
+Hank Williams Jr.,Shreveport,"(32.5135356, -93.7477839)",32.5135356,-93.7477839
+Missy Elliott,Portsmouth,"(50.800031, -1.0906023)",50.800031,-1.0906023
+Kane Brown,Birthplace not found,"(None, None)",,
+RenÃ© AngÃ©lil,Birthplace not found,"(None, None)",,
+Carlos Santana,Autlán de Navarro,"(19.75703, -104.31834015548738)",19.75703,-104.31834015548738
+Rosie O'Donnell,Commack,"(40.8428759, -73.2928943)",40.8428759,-73.2928943
+Billy Crystal,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+Desi Arnaz,Santiago de Cuba,"(20.0214637, -75.8294928)",20.0214637,-75.8294928
+Cailee Spaeny,Springfield,"(39.7990175, -89.6439575)",39.7990175,-89.6439575
+Ricky Martin,San Juan,"(18.465299, -66.116666)",18.465299,-66.116666
+Enya,Gweedore,"(55.0501027, -8.2322026)",55.0501027,-8.2322026
+Ramones,Birthplace not found,"(None, None)",,
+Michael Bolton,New Haven,"(41.3082138, -72.9250518)",41.3082138,-72.9250518
+Tia Carrere,Honolulu,"(21.304547, -157.855676)",21.304547,-157.855676
+Traveling Wilburys,Birthplace not found,"(None, None)",,
+Jerry Garcia,San Francisco,"(37.7792588, -122.4193286)",37.7792588,-122.4193286
+Jason Derulo,Miramar,"(25.9873137, -80.2322706)",25.9873137,-80.2322706
+The Temptations,Birthplace not found,"(None, None)",,
+The Monkees,Birthplace not found,"(None, None)",,
+Bette Midler,Honolulu,"(21.304547, -157.855676)",21.304547,-157.855676
+Amandla Stenberg,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+Glenn Frey,Detroit,"(42.3315509, -83.0466403)",42.3315509,-83.0466403
+Beck,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+The Pogues,Birthplace not found,"(None, None)",,
+Lynda Carter,Phoenix,"(33.4484367, -112.074141)",33.4484367,-112.074141
+Wiz Khalifa,Minot,"(47.6698594, 4.8786165)",47.6698594,4.8786165
+Lucy Lawless,Mount Albert,"(63.8189209, -135.0757456)",63.8189209,-135.0757456
+David Cross,Roswell,"(34.02332, -84.360022)",34.02332,-84.360022
+David Hasselhoff,Baltimore,"(39.2908816, -76.610759)",39.2908816,-76.610759
+Kristy McNichol,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+AnnaSophia Robb,Denver,"(39.7392364, -104.984862)",39.7392364,-104.984862
+Addison Rae,Lafayette,"(29.9978185, -83.2221527)",29.9978185,-83.2221527
+Sufjan Stevens,Birthplace not found,"(None, None)",,
+Skrillex,Birthplace not found,"(None, None)",,
+Phylicia Rashad,Houston,"(29.7589382, -95.3676974)",29.7589382,-95.3676974
+Bonnie Raitt,Burbank,"(34.1812089, -118.307201)",34.1812089,-118.307201
+Trent Reznor,New Castle,"(40.9999202, -80.3471856)",40.9999202,-80.3471856
+Jane Lynch,Evergreen Park,"(41.720136, -87.7013258)",41.720136,-87.7013258
+Joanne Whalley,Salford,"(53.4877463, -2.2891921)",53.4877463,-2.2891921
+T.I.,Birthplace not found,"(None, None)",,
+Ayushmann Khurrana,Chandigarh,"(30.72984395, 76.78414567016054)",30.72984395,76.78414567016054
+Miranda Lambert,Longview,"(32.5007031, -94.74049)",32.5007031,-94.74049
+Joy Division,Birthplace not found,"(None, None)",,
+Riz Ahmed,Wembley,"(51.55606945, -0.27960339379401444)",51.55606945,-0.27960339379401444
+MÃ©lanie Laurent,Birthplace not found,"(None, None)",,
+Bebe Neuwirth,Newark,"(40.735657, -74.1723667)",40.735657,-74.1723667
+Max Martin,Sånga församling,"(63.1755104, 17.433158367004587)",63.1755104,17.433158367004587
+Gregg Allman,Saint Thomas Hospital,"(36.1296963, -86.84464522914443)",36.1296963,-86.84464522914443
+Alan Jackson,Birthplace not found,"(None, None)",,
+Amy Irving,Palo Alto,"(37.4443293, -122.1598465)",37.4443293,-122.1598465
+Han Hyo-joo,Cheongju,"(36.6421169, 127.4891742)",36.6421169,127.4891742
+Elvis Costello,London,"(51.5074456, -0.1277653)",51.5074456,-0.1277653
+The Jackson 5,Birthplace not found,"(None, None)",,
+Josh Gad,Hollywood,"(34.0980031, -118.329523)",34.0980031,-118.329523
+Julio Iglesias,Madrid,"(40.4167047, -3.7035825)",40.4167047,-3.7035825
+M. M. Keeravani,Kovvur,"(17.01796845, 81.710121083101)",17.01796845,81.710121083101
+Bob Geldof,Dún Laoghaire,"(53.2922794, -6.1360079)",53.2922794,-6.1360079
+Sasha Grey,North Highlands,"(33.7909385, -84.3538145)",33.7909385,-84.3538145
+Jay Leno,New Rochelle,"(40.9115386, -73.7826363)",40.9115386,-73.7826363
+Jeff Lynne,Birthplace not found,"(None, None)",,
+Television,Birthplace not found,"(None, None)",,
+Macklemore,Seattle,"(47.6038321, -122.330062)",47.6038321,-122.330062
+Chocolate,Birthplace not found,"(None, None)",,
+Prabhu Deva,Mysore,"(12.3051828, 76.6553609)",12.3051828,76.6553609
+Isaac Hayes,Covington,"(31.196549, -86.4597236)",31.196549,-86.4597236
+Ne-Yo,Camden,"(39.9448402, -75.1198911)",39.9448402,-75.1198911
+Bob Seger,Detroit,"(42.3315509, -83.0466403)",42.3315509,-83.0466403
+John Mahoney,Blackpool,"(53.824548300000004, -3.037319995021968)",53.824548300000004,-3.037319995021968
+Farhan Akhtar,Mumbai,"(18.9733536, 72.82810491917377)",18.9733536,72.82810491917377
+Todd Rundgren,Upper Darby Township,"(39.9601011, -75.263251)",39.9601011,-75.263251
+John Deacon,Birthplace not found,"(None, None)",,
+Lyle Lovett,Houston,"(29.7589382, -95.3676974)",29.7589382,-95.3676974
+Brian Eno,Woodbridge,"(52.0941323, 1.3199383)",52.0941323,1.3199383
+Earth,Birthplace not found,"(None, None)",,
+Luis Enrique,Nicaragua,"(12.6090157, -85.2936911)",12.6090157,-85.2936911
+Vince Gill,Birthplace not found,"(None, None)",,
+Lele Pons,Caracas,"(10.5060934, -66.9146008)",10.5060934,-66.9146008
+Jason Isbell,Green Hill,"(38.7911098, -75.1671987)",38.7911098,-75.1671987
+Kelly Rowland,Atlanta,"(33.7489924, -84.3902644)",33.7489924,-84.3902644
+The Byrds,Birthplace not found,"(None, None)",,
+Cynthia Erivo,Stockwell,"(51.472211, -0.1225014)",51.472211,-0.1225014
+The Kid Laroi,Birthplace not found,"(None, None)",,
+Dolphin,Moscow,"(55.7505412, 37.6174782)",55.7505412,37.6174782
+Frank Stallone,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+Shabana Azmi,Azamgarh,"(25.9915763, 83.19083414101152)",25.9915763,83.19083414101152
+Freema Agyeman,London,"(51.5074456, -0.1277653)",51.5074456,-0.1277653
+Serj Tankian,Lebanon,"(40.375713, -76.4626118)",40.375713,-76.4626118
+Pete Townshend,London,"(51.5074456, -0.1277653)",51.5074456,-0.1277653
+Chaka Khan,Chicago,"(41.8755616, -87.6244212)",41.8755616,-87.6244212
+Finneas O'Connell,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+Peter Frampton,Birthplace not found,"(None, None)",,
+Diplo,Birthplace not found,"(None, None)",,
+Brandy,McComb,"(31.2437872, -90.4531536)",31.2437872,-90.4531536
+Kenny Chesney,Birthplace not found,"(None, None)",,
+Joe Cocker,Sheffield,"(53.3806626, -1.4702278)",53.3806626,-1.4702278
+Laura Bailey,Biloxi,"(30.4007626, -88.8893818)",30.4007626,-88.8893818
+Alan Thicke,Kirkland Lake,"(48.154177, -80.031281)",48.154177,-80.031281
+Gilda Radner,Detroit,"(42.3315509, -83.0466403)",42.3315509,-83.0466403
+Dingo,Birthplace not found,"(None, None)",,
+Jackson Browne,Heidelberg,"(49.4093582, 8.694724)",49.4093582,8.694724
+Electric Light Orchestra,Birthplace not found,"(None, None)",,
+Bill Wyman,Birthplace not found,"(None, None)",,
+Chyler Leigh,Charlotte,"(35.2272086, -80.8430827)",35.2272086,-80.8430827
+Derek Hough,Salt Lake City,"(40.7596198, -111.886797)",40.7596198,-111.886797
+Vanilla Ice,Dallas,"(32.7762719, -96.7968559)",32.7762719,-96.7968559
+Toni Braxton,Severn,"(39.1278864, -76.6869128)",39.1278864,-76.6869128
+Nithya Menen,Bengaluru,"(12.9767936, 77.590082)",12.9767936,77.590082
+Nine Inch Nails,Birthplace not found,"(None, None)",,
+David Guetta,Birthplace not found,"(None, None)",,
+Buffy Sainte-Marie,Stoneham,"(42.4802635, -71.0993581)",42.4802635,-71.0993581
+The Kinks,Birthplace not found,"(None, None)",,
+Nile Rodgers,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+John Green,Indianapolis,"(39.7683331, -86.1583502)",39.7683331,-86.1583502
+Naomi Judd,Ashland,"(40.7887367, -82.2360391)",40.7887367,-82.2360391
+Ann Wilson,San Diego,"(32.7174202, -117.162772)",32.7174202,-117.162772
+Kiersey Clemons,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+Carly Rae Jepsen,Mission,"(26.2159066, -98.3252932)",26.2159066,-98.3252932
+Anna Camp,Aiken,"(33.5723191, -81.6182086)",33.5723191,-81.6182086
+Adrienne Barbeau,Sacramento,"(38.5810606, -121.493895)",38.5810606,-121.493895
+Jim Varney,Lexington,"(38.0464066, -84.4970393)",38.0464066,-84.4970393
+Phil Lynott,West Bromwich,"(52.5186579, -1.9923114)",52.5186579,-1.9923114
+Lauren Daigle,Lafayette,"(29.9978185, -83.2221527)",29.9978185,-83.2221527
+Timbaland,Norfolk,"(52.666667, 1.0)",52.666667,1.0
+The Pussycat Dolls,Birthplace not found,"(None, None)",,
+Colman Domingo,Philadelphia,"(39.9527237, -75.1635262)",39.9527237,-75.1635262
+The Prodigy,Birthplace not found,"(None, None)",,
+Sean Paul,Kingston,"(17.9712148, -76.7928128)",17.9712148,-76.7928128
+Maren Morris,Arlington,"(32.7355816, -97.1071186)",32.7355816,-97.1071186
+Katt Williams,Birthplace not found,"(None, None)",,
+The Moody Blues,Birthplace not found,"(None, None)",,
+Richard Kind,Trenton,"(40.2203074, -74.7659)",40.2203074,-74.7659
+Irene Cara,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+Rashid Khan,Budaun,"(28.0170407, 79.11839502041272)",28.0170407,79.11839502041272
+Natalia Tena,London,"(51.5074456, -0.1277653)",51.5074456,-0.1277653
+Michael Palin,Broomhill & Sharrow Vale,"(53.3676628, -1.4971948)",53.3676628,-1.4971948
+Stephen Stills,Dallas,"(32.7762719, -96.7968559)",32.7762719,-96.7968559
+Delta Goodrem,Sydney,"(-33.8698439, 151.2082848)",-33.8698439,151.2082848
+Pat Benatar,Brooklyn,"(40.6526006, -73.9497211)",40.6526006,-73.9497211
+Belle Delphine,Birthplace not found,"(None, None)",,
+Barry White,Galveston,"(29.3872254, -94.992736)",29.3872254,-94.992736
+Village People,Birthplace not found,"(None, None)",,
+Harry Connick Jr.,New Orleans,"(29.9759983, -90.0782127)",29.9759983,-90.0782127
+Lucie Arnaz,Hollywood,"(34.0980031, -118.329523)",34.0980031,-118.329523
+The Clash,Birthplace not found,"(None, None)",,
+BjÃ¶rn Ulvaeus,Birthplace not found,"(None, None)",,
+Christine and the Queens,Nantes,"(47.2186371, -1.5541362)",47.2186371,-1.5541362
+Mos Def,Brooklyn,"(40.6526006, -73.9497211)",40.6526006,-73.9497211
+Jermaine Jackson,Gary,"(41.6020962, -87.3370646)",41.6020962,-87.3370646
+Laura Benanti,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+Graham Nash,Birthplace not found,"(None, None)",,
+Maroon 5,Birthplace not found,"(None, None)",,
+Lee Byung-hun,Seoul,"(37.5666791, 126.9782914)",37.5666791,126.9782914
+Ghost,Kingston,"(17.9712148, -76.7928128)",17.9712148,-76.7928128
+Patti LuPone,Northport,"(46.7918564, -64.06301679150738)",46.7918564,-64.06301679150738
+Daryl Hall,Birthplace not found,"(None, None)",,
+Johnny Marr,Manchester,"(53.4794892, -2.2451148)",53.4794892,-2.2451148
+Dwight Yoakam,Pikeville,"(37.4792672, -82.5187629)",37.4792672,-82.5187629
+Brendon Urie,St. George,"(37.104153, -113.584131)",37.104153,-113.584131
+Susan Lucci,Scarsdale,"(40.9880495, -73.7974133)",40.9880495,-73.7974133
+Sanaa Lathan,Birthplace not found,"(None, None)",,
+Gary Barlow,Frodsham,"(53.2963636, -2.7114845)",53.2963636,-2.7114845
+Saweetie,Hayward,"(37.6688205, -122.080796)",37.6688205,-122.080796
+Debbie Allen,Houston,"(29.7589382, -95.3676974)",29.7589382,-95.3676974
+Ryan Bingham,Hobbs,"(32.707667, -103.1311314)",32.707667,-103.1311314
+Tamera Mowry,Gelnhausen,"(50.2043672, 9.1997516)",50.2043672,9.1997516
+GÃ©rard Depardieu,Birthplace not found,"(None, None)",,
+Luis Miguel,San Juan,"(18.465299, -66.116666)",18.465299,-66.116666
+Mark Salling,Dallas,"(32.7762719, -96.7968559)",32.7762719,-96.7968559
+JhenÃ© Aiko,Birthplace not found,"(None, None)",,
+Yungblud,Doncaster,"(53.5227681, -1.1335312)",53.5227681,-1.1335312
+Kim Jong-hyun,Hyehwa-dong,"(37.58681425, 126.99977827523001)",37.58681425,126.99977827523001
+Javed Akhtar,Birthplace not found,"(None, None)",,
+Randy Newman,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+Charlotte Rampling,Sturmer,"(52.0683579, 0.4736303)",52.0683579,0.4736303
+Stormzy,Croydon,"(51.3713049, -0.101957)",51.3713049,-0.101957
+Bindi Irwin,Buderim,"(-26.687935500000002, 153.06856240191146)",-26.687935500000002,153.06856240191146
+Neil Peart,Birthplace not found,"(None, None)",,
+Carice van Houten,Leiderdorp,"(52.1617952, 4.5340923)",52.1617952,4.5340923
+Tenacious D,Birthplace not found,"(None, None)",,
+Dilraba Dilmurat,Ürümqi,"(43.419754, 87.319461)",43.419754,87.319461
+Tyra Banks,Inglewood,"(33.9562003, -118.353132)",33.9562003,-118.353132
+The Pretenders,Birthplace not found,"(None, None)",,
+Lea Salonga,Ermita,"(14.5785921, 120.9794956)",14.5785921,120.9794956
+Kathie Lee Gifford,Paris,"(48.8588897, 2.3200410217200766)",48.8588897,2.3200410217200766
+Jeezy,Birthplace not found,"(None, None)",,
+Mare Winningham,Phoenix,"(33.4484367, -112.074141)",33.4484367,-112.074141
+Jim Cummings,Youngstown,"(41.1035786, -80.6520161)",41.1035786,-80.6520161
+Grant Gustin,Norfolk,"(52.666667, 1.0)",52.666667,1.0
+PJ Harvey,Corscombe,"(50.8340137, -2.6770256697537063)",50.8340137,-2.6770256697537063
+Benny Andersson,Stockholm,"(59.3251172, 18.0710935)",59.3251172,18.0710935
+Amy Grant,Augusta,"(33.4709714, -81.9748429)",33.4709714,-81.9748429
+Billy Gibbons,Houston,"(29.7589382, -95.3676974)",29.7589382,-95.3676974
+The Allman Brothers Band,Birthplace not found,"(None, None)",,
+Merle Haggard,Bakersfield,"(35.3738712, -119.019463)",35.3738712,-119.019463
+Falling in Reverse,Birthplace not found,"(None, None)",,
+Bonnie Tyler,Skewen,"(51.6570639, -3.8469047)",51.6570639,-3.8469047
+Timbuktu,Lund Cathedral parish,"(None, None)",,
+Steve Kazee,Ashland,"(40.7887367, -82.2360391)",40.7887367,-82.2360391
+Matthias SchweighÃ¶fer,Birthplace not found,"(None, None)",,
+No Doubt,Birthplace not found,"(None, None)",,
+Tila Tequila,Singapore,"(1.357107, 103.8194992)",1.357107,103.8194992
+Isabelle Adjani,17th arrondissement of Paris,"(None, None)",,
+Kazuo Ishiguro,Birthplace not found,"(None, None)",,
+Randy Rhoads,Birthplace not found,"(None, None)",,
+Kenny Loggins,Everett,"(47.9793437, -122.2127011)",47.9793437,-122.2127011
+Swizz Beatz,The Bronx,"(40.8466508, -73.8785937)",40.8466508,-73.8785937
+Li Bingbing,Wuchang,"(30.5566998, 114.3109847)",30.5566998,114.3109847
+ThalÃ­a,Birthplace not found,"(None, None)",,
+The Hollies,Birthplace not found,"(None, None)",,
+Metta Sandiford-Artest,Birthplace not found,"(None, None)",,
+Michael Nesmith,Houston,"(29.7589382, -95.3676974)",29.7589382,-95.3676974
+Sturgill Simpson,Jackson,"(32.2998686, -90.1830408)",32.2998686,-90.1830408
+Cilla Black,Vauxhall,"(51.4874834, -0.1229297)",51.4874834,-0.1229297
+MC Hammer,Oakland,"(37.8044557, -122.271356)",37.8044557,-122.271356
+Emmylou Harris,Birthplace not found,"(None, None)",,
+Jeffree Star,Santa Ana,"(33.7494951, -117.873221)",33.7494951,-117.873221
+Daddy Yankee,San Juan,"(18.465299, -66.116666)",18.465299,-66.116666
+Sophie Marceau,15th arrondissement of Paris,"(48.8774799, 2.31765)",48.8774799,2.31765
+Sonny Chiba,Fukuoka,"(33.6251241, 130.6180016)",33.6251241,130.6180016
+Darren Criss,San Francisco,"(37.7792588, -122.4193286)",37.7792588,-122.4193286
+Siouxsie Sioux,Southwark,"(51.5022549, -0.093898)",51.5022549,-0.093898
+Steve Vai,Birthplace not found,"(None, None)",,
+Nusrat Fateh Ali Khan,Faisalabad,"(31.4220558, 73.0923253)",31.4220558,73.0923253
+Kapil Sharma,Amritsar,"(31.6343083, 74.8736788)",31.6343083,74.8736788
+Peter Gallagher,Manhattan,"(40.7896239, -73.9598939)",40.7896239,-73.9598939
+Lindsey Stirling,Santa Ana,"(33.7494951, -117.873221)",33.7494951,-117.873221
+Sulli,Haeundae District,"(35.1629, 129.1638)",35.1629,129.1638
+S Club 7,Birthplace not found,"(None, None)",,
+Jodi Benson,Rockford,"(42.2713945, -89.093966)",42.2713945,-89.093966
+Roxette,Birthplace not found,"(None, None)",,
+Eric Idle,Birthplace not found,"(None, None)",,
+Donovan,Glasgow,"(55.861155, -4.2501687)",55.861155,-4.2501687
+Geddy Lee,Toronto,"(43.6534817, -79.3839347)",43.6534817,-79.3839347
+Matt Bellamy,Cambridge,"(52.2055314, 0.1186637)",52.2055314,0.1186637
+Brad Paisley,Glen Dale,"(39.946470500000004, -80.75575871338731)",39.946470500000004,-80.75575871338731
+Mumford & Sons,Birthplace not found,"(None, None)",,
+Benjamin Zephaniah,Handsworth,"(53.3723004, -1.3830121)",53.3723004,-1.3830121
+Logic,Rockville,"(39.0817985, -77.1516844)",39.0817985,-77.1516844
+Lesley Ann Warren,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+Bill Withers,Slab Fork,"(37.6870584, -81.3314915)",37.6870584,-81.3314915
+Bon Iver,Birthplace not found,"(None, None)",,
+Roberta Flack,Asheville,"(35.595363, -82.5508407)",35.595363,-82.5508407
+Rauw Alejandro,San Juan,"(18.465299, -66.116666)",18.465299,-66.116666
+Three 6 Mafia,Birthplace not found,"(None, None)",,
+Kacey Musgraves,Mineola,"(40.7492678, -73.6406845)",40.7492678,-73.6406845
+The Pointer Sisters,Birthplace not found,"(None, None)",,
+Tobias Forge,Q10658347,"(None, None)",,
+John Oates,Birthplace not found,"(None, None)",,
+Denny Doherty,Halifax,"(44.648618, -63.5859487)",44.648618,-63.5859487
+Sarah Brightman,Berkhamsted,"(51.75514375, -0.5557681023902674)",51.75514375,-0.5557681023902674
+Gregory Hines,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+Rick Springfield,Sydney,"(-33.8698439, 151.2082848)",-33.8698439,151.2082848
+Iwan Rheon,Carmarthen,"(51.8591257, -4.3115907)",51.8591257,-4.3115907
+Cypress Hill,Birthplace not found,"(None, None)",,
+Stromae,Birthplace not found,"(None, None)",,
+John Prine,Maywood,"(33.9866807, -118.185349)",33.9866807,-118.185349
+Leona Lewis,London,"(51.5074456, -0.1277653)",51.5074456,-0.1277653
+Da'Vine Joy Randolph,Philadelphia,"(39.9527237, -75.1635262)",39.9527237,-75.1635262
+Autumn,Birthplace not found,"(None, None)",,
+Melissa Etheridge,Leavenworth,"(39.2147095, -95.0620347)",39.2147095,-95.0620347
+The Edge,London,"(51.5074456, -0.1277653)",51.5074456,-0.1277653
+Gotye,Bruges,"(51.2085526, 3.226772)",51.2085526,3.226772
+Vani Jairam,Vellore,"(12.7948109, 79.0006410968549)",12.7948109,79.0006410968549
+George Ezra,Hertford,"(36.3560545, -77.0115135)",36.3560545,-77.0115135
+Rosanne Cash,Memphis,"(35.1460249, -90.0517638)",35.1460249,-90.0517638
+Amy Madigan,Chicago,"(41.8755616, -87.6244212)",41.8755616,-87.6244212
+Maluma,Medellín,"(6.2443382, -75.573553)",6.2443382,-75.573553
+Mark Selby,Enid,"(36.3967623, -97.8791341)",36.3967623,-97.8791341
+Psy,Gangnam District,"(43.1168722, 131.8817137)",43.1168722,131.8817137
+Jeff Healey,Toronto,"(43.6534817, -79.3839347)",43.6534817,-79.3839347
+Marianne Faithfull,Hampstead,"(51.55653, -0.1783011)",51.55653,-0.1783011
+Marie Fredriksson,Össjö,"(56.2286102, 13.0318068)",56.2286102,13.0318068
+Rob Brydon,Baglan,"(20.690228599999998, 74.12869047153217)",20.690228599999998,74.12869047153217
+New Edition,Birthplace not found,"(None, None)",,
+Jacob Collier,London,"(51.5074456, -0.1277653)",51.5074456,-0.1277653
+Bryan Ferry,Birthplace not found,"(None, None)",,
+Ilaiyaraaja,Pannaipuram,"(9.8482199, 77.296163)",9.8482199,77.296163
+Nightwish,Birthplace not found,"(None, None)",,
+Christopher Cross,San Antonio,"(29.4246002, -98.4951405)",29.4246002,-98.4951405
+Haydn Gwynne,Hurstpierpoint,"(50.933463, -0.1781416)",50.933463,-0.1781416
+Sepultura,Birthplace not found,"(None, None)",,
+Yuvan Shankar Raja,Chennai,"(13.0836939, 80.270186)",13.0836939,80.270186
+Rita Marley,Santiago de Cuba,"(20.0214637, -75.8294928)",20.0214637,-75.8294928
+Ziggy Marley,Kingston,"(17.9712148, -76.7928128)",17.9712148,-76.7928128
+Alison Krauss,Decatur,"(39.8454163, -88.9524151)",39.8454163,-88.9524151
+Shane Dawson,Long Beach,"(33.7690164, -118.191604)",33.7690164,-118.191604
+Peter Criss,Brooklyn,"(40.6526006, -73.9497211)",40.6526006,-73.9497211
+Joe Bonamassa,New Hartford,"(42.5669261, -92.6221368)",42.5669261,-92.6221368
+S. P. Balasubrahmanyam,Sri Potti Sri Ramulu Nellore district,"(None, None)",,
+Twenty One Pilots,Birthplace not found,"(None, None)",,
+Sutton Foster,Statesboro,"(32.4490141, -81.7832912)",32.4490141,-81.7832912
+Gram Parsons,Winter Haven,"(28.0222435, -81.7328568)",28.0222435,-81.7328568
+Tom Hulce,Detroit,"(42.3315509, -83.0466403)",42.3315509,-83.0466403
+Trivikram Srinivas,Birthplace not found,"(None, None)",,
+Tones and I,Mount Martha,"(-31.15676, 150.21229)",-31.15676,150.21229
+Sheridan Smith,Epworth,"(42.4450016, -90.9320766)",42.4450016,-90.9320766
+Nina Hoss,Stuttgart,"(48.7784485, 9.1800132)",48.7784485,9.1800132
+Dee Bradley Baker,Bloomington,"(39.1670396, -86.5342881)",39.1670396,-86.5342881
+Jane's Addiction,Birthplace not found,"(None, None)",,
+Tony Iommi,Birthplace not found,"(None, None)",,
+Zara Larsson,Solna Municipality,"(59.366667, 18.016667)",59.366667,18.016667
+Arnel Pineda,Sampaloc,"(14.6031403, 120.993417)",14.6031403,120.993417
+Sheila E.,Oakland,"(37.8044557, -122.271356)",37.8044557,-122.271356
+Trisha Yearwood,Monticello,"(42.617236, 8.9546269)",42.617236,8.9546269
+Crystal Gayle,Paintsville,"(37.8145384, -82.8071054)",37.8145384,-82.8071054
+Olivia d'Abo,London,"(51.5074456, -0.1277653)",51.5074456,-0.1277653
+Giorgio Moroder,Birthplace not found,"(None, None)",,
+Anita Baker,Toledo,"(39.8560679, -4.0239568)",39.8560679,-4.0239568
+Chow Yun-fat,Hong Kong,"(22.350627, 114.1849161)",22.350627,114.1849161
+Roger Allam,Bow,"(51.5309383, -0.0274853)",51.5309383,-0.0274853
+David Coverdale,Saltburn-by-the-Sea,"(54.5846769, -0.9740921)",54.5846769,-0.9740921
+Big Sean,Santa Monica,"(34.0194704, -118.491227)",34.0194704,-118.491227
+Sarah McLachlan,Halifax,"(44.648618, -63.5859487)",44.648618,-63.5859487
+Arshad Warsi,Mumbai,"(18.9733536, 72.82810491917377)",18.9733536,72.82810491917377
+Sheena Easton,Bellshill,"(55.8189311, -4.0225794)",55.8189311,-4.0225794
+Sonu Nigam,Faridabad,"(28.4031478, 77.3105561)",28.4031478,77.3105561
+Buffalo Springfield,Birthplace not found,"(None, None)",,
+Tuva Novotny,Stockholm,"(59.3251172, 18.0710935)",59.3251172,18.0710935
+Thomas Bangalter,Paris,"(48.8588897, 2.3200410217200766)",48.8588897,2.3200410217200766
+Run-DMC,Birthplace not found,"(None, None)",,
+Townes Van Zandt,Fort Worth,"(32.753177, -97.3327459)",32.753177,-97.3327459
+Moira Kelly,Queens,"(40.7135078, -73.8283132)",40.7135078,-73.8283132
+Ryan Tedder,Tulsa,"(36.1563122, -95.9927516)",36.1563122,-95.9927516
+Tomorrow X Together,Birthplace not found,"(None, None)",,
+Patrick Stump,Evanston,"(42.0470043, -87.6846053)",42.0470043,-87.6846053
+G-Dragon,Seoul,"(37.5666791, 126.9782914)",37.5666791,126.9782914
+Beef,Birthplace not found,"(None, None)",,
+Paul Weller,Woking,"(51.3201891, -0.5564726)",51.3201891,-0.5564726
+Franka Potente,Münster,"(51.9625101, 7.6251879)",51.9625101,7.6251879
+Len Cariou,Winnipeg,"(49.8955367, -97.1384584)",49.8955367,-97.1384584
+Ray Davies,Fortis Green,"(51.5910863, -0.1533604)",51.5910863,-0.1533604
+Eurythmics,Birthplace not found,"(None, None)",,
+Ashley McBryde,Mammoth Spring,"(36.4946025, -91.5428211)",36.4946025,-91.5428211
+Anne Murray,Nova Scotia,"(45.1960403, -63.1653789)",45.1960403,-63.1653789
+Harvey Fierstein,Brooklyn,"(40.6526006, -73.9497211)",40.6526006,-73.9497211
+Carla Bruni,Turin,"(45.0677551, 7.6824892)",45.0677551,7.6824892
+Diane Warren,Van Nuys,"(34.1866193, -118.4486675)",34.1866193,-118.4486675
+The Go-Go's,Birthplace not found,"(None, None)",,
+Astrud Gilberto,Salvador,"(13.8000382, -88.9140683)",13.8000382,-88.9140683
+Timothy B. Schmit,Oakland,"(37.8044557, -122.271356)",37.8044557,-122.271356
+The Guess Who,Birthplace not found,"(None, None)",,
+Kraftwerk,Birthplace not found,"(None, None)",,
+Little Simz,Islington,"(51.5384287, -0.0999051)",51.5384287,-0.0999051
+John Entwistle,Birthplace not found,"(None, None)",,
+Aaron Tveit,Middletown,"(41.5623178, -72.6509061)",41.5623178,-72.6509061
+John Barrowman,Glasgow,"(55.861155, -4.2501687)",55.861155,-4.2501687
+Jasmine Guy,Boston,"(42.3554334, -71.060511)",42.3554334,-71.060511
+Annaleigh Ashford,Denver,"(39.7392364, -104.984862)",39.7392364,-104.984862
+D12,Birthplace not found,"(None, None)",,
+August Alsina,New Orleans,"(29.9759983, -90.0782127)",29.9759983,-90.0782127
+Nick Mason,Birthplace not found,"(None, None)",,
+Hayley Kiyoko,Los Angeles,"(34.0536909, -118.242766)",34.0536909,-118.242766
+Helen Reddy,Melbourne,"(-37.8142454, 144.9631732)",-37.8142454,144.9631732
+Lenny Henry,Dudley,"(52.5110832, -2.0816813)",52.5110832,-2.0816813
+Modern Talking,Birthplace not found,"(None, None)",,
+Wizkid,Lagos,"(6.4550575, 3.3941795)",6.4550575,3.3941795
+Mick Hucknall,Denton,"(33.1838787, -97.1413417)",33.1838787,-97.1413417
+Tim Minchin,Northampton,"(52.23433665, -0.9028072768185829)",52.23433665,-0.9028072768185829
+Sunidhi Chauhan,New Delhi,"(28.6138954, 77.2090057)",28.6138954,77.2090057
+Julie Delpy,14th arrondissement of Paris,"(48.8774799, 2.31765)",48.8774799,2.31765
+Gulzar,Birthplace not found,"(None, None)",,
+Roxy Music,Birthplace not found,"(None, None)",,
+Owl City,Birthplace not found,"(None, None)",,
+Pedro AlmodÃ³var,Birthplace not found,"(None, None)",,
+Rain,Seoul,"(37.5666791, 126.9782914)",37.5666791,126.9782914
+Lou Gramm,Rochester,"(43.157285, -77.615214)",43.157285,-77.615214
+Bernard Tapie,20th arrondissement of Paris,"(48.8774799, 2.31765)",48.8774799,2.31765
+Tracey Ullman,Slough,"(51.5111014, -0.5940682)",51.5111014,-0.5940682
+Bobbie Gentry,Woodland,"(38.6786109, -121.7733285)",38.6786109,-121.7733285
+Christopher Atkins,Rye,"(46.8712641, 5.4297754)",46.8712641,5.4297754
+Jinkx Monsoon,Portland,"(45.5202471, -122.674194)",45.5202471,-122.674194
+Alan Menken,Birthplace not found,"(None, None)",,
+Hootie & the Blowfish,Birthplace not found,"(None, None)",,
+James Marsters,Greenville,"(34.851354, -82.3984882)",34.851354,-82.3984882
+Itzy,Birthplace not found,"(None, None)",,
+Craig Bierko,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+Wyclef Jean,Croix-des-Bouquets,"(18.5775444, -72.2296219)",18.5775444,-72.2296219
+Bob Weir,San Francisco,"(37.7792588, -122.4193286)",37.7792588,-122.4193286
+Mike Oldfield,Reading,"(51.4564242, -0.9700664)",51.4564242,-0.9700664
+Liza Soberano,Santa Clara,"(37.2333253, -121.6846349)",37.2333253,-121.6846349
+Tove Lo,Viken church parish,"(None, None)",,
+Marina Diamandis,Brynmawr,"(51.7982408, -3.1740109)",51.7982408,-3.1740109
+Bachmanâ€“Turner Overdrive,Birthplace not found,"(None, None)",,
+Cheyenne Jackson,Spokane,"(47.6571934, -117.42351)",47.6571934,-117.42351
+Wang Yibo,Luoyang,"(34.6196539, 112.4477046)",34.6196539,112.4477046
+Jay Chou,Taipei,"(25.0375198, 121.5636796)",25.0375198,121.5636796
+John Farnham,Dagenham,"(51.5413271, 0.1481142)",51.5413271,0.1481142
+Francis Magalona,Manila,"(14.5906346, 120.9799964)",14.5906346,120.9799964
+Roger Whittaker,Nairobi,"(-1.3026148499999999, 36.82884201813725)",-1.3026148499999999,36.82884201813725
+J Balvin,Medellín,"(6.2443382, -75.573553)",6.2443382,-75.573553
+Smiley,Pitești,"(44.8572343, 24.8719422)",44.8572343,24.8719422
+Shu Qi,Xindian District,"(24.9673935, 121.5419418)",24.9673935,121.5419418
+Noa Kirel,Ra'anana,"(53.00118, 6.07199)",53.00118,6.07199
+Guy-Manuel de Homem-Christo,Neuilly-sur-Seine,"(48.884683, 2.2695658)",48.884683,2.2695658
+Typhoon,Busan,"(35.1799528, 129.0752365)",35.1799528,129.0752365
+Udit Narayan,Supaul district,"(26.2768089, 86.79596143977405)",26.2768089,86.79596143977405
+Beverley Knight,Wolverhampton,"(52.5847651, -2.127567)",52.5847651,-2.127567
+Counting Crows,Birthplace not found,"(None, None)",,
+Andy Lau,Tai Po,"(22.4494017, 114.1711328)",22.4494017,114.1711328
+Manic Street Preachers,Birthplace not found,"(None, None)",,
+Billy Ocean,Fyzabad,"(10.1802665, -61.5467618)",10.1802665,-61.5467618
+Betty Buckley,Big Spring,"(32.250398, -101.4787356)",32.250398,-101.4787356
+Kelly Bishop,Colorado Springs,"(38.8339578, -104.825348)",38.8339578,-104.825348
+Anika Noni Rose,Bloomfield,"(40.7510398, -92.4143872)",40.7510398,-92.4143872
+Dixie Carter,McLemoresville,"(35.987286, -88.5745001)",35.987286,-88.5745001
+Neal Schon,Birthplace not found,"(None, None)",,
+KC and the Sunshine Band,Birthplace not found,"(None, None)",,
+Mamta Mohandas,Manama,"(26.2235041, 50.5822436)",26.2235041,50.5822436
+Jonny Greenwood,Birthplace not found,"(None, None)",,
+Bushido,Birthplace not found,"(None, None)",,
+Guy Sebastian,Klang,"(49.3198, 6.3722)",49.3198,6.3722
+TiÃ«sto,Birthplace not found,"(None, None)",,
+JosÃ© Feliciano,Birthplace not found,"(None, None)",,
+John Paul Jones,Birthplace not found,"(None, None)",,
+Jill Hennessy,Edmonton,"(53.5462055, -113.491241)",53.5462055,-113.491241
+Steve Earle,Fort Monroe,"(37.00429425, -76.30690244849076)",37.00429425,-76.30690244849076
+Rufus Wainwright,Rhinebeck,"(41.9267604, -73.912763)",41.9267604,-73.912763
+Lou Doillon,Neuilly-sur-Seine,"(48.884683, 2.2695658)",48.884683,2.2695658
+2 Chainz,Birthplace not found,"(None, None)",,
+Dixie D'Amelio,Norwalk,"(41.1175966, -73.4078968)",41.1175966,-73.4078968
+Madelaine Petsch,Port Orchard,"(47.5315625, -122.6384056)",47.5315625,-122.6384056
+Michael Parks,Corona,"(33.8752945, -117.566444)",33.8752945,-117.566444
+Ahmed Best,New York City,"(40.7127281, -74.0060152)",40.7127281,-74.0060152
+Vishal Bhardwaj,Bijnor,"(29.4121319, 78.16426309598418)",29.4121319,78.16426309598418
+Grandmaster Flash,Birthplace not found,"(None, None)",,
+Atif Aslam,Wazirabad,"(32.433995249999995, 74.13088162810784)",32.433995249999995,74.13088162810784
+Mithoon,Mumbai,"(18.9733536, 72.82810491917377)",18.9733536,72.82810491917377
+Romeo Santos,The Bronx,"(40.8466508, -73.8785937)",40.8466508,-73.8785937
+Marla Gibbs,"John H. Stroger, Jr. Hospital of Cook County","(None, None)",,
+Beverley Mitchell,Arcadia,"(34.1362075, -118.0401497)",34.1362075,-118.0401497
+Carly Pearce,Taylor Mill,"(38.9975616, -84.4963306)",38.9975616,-84.4963306
+Marty Stuart,Philadelphia,"(39.9527237, -75.1635262)",39.9527237,-75.1635262
+Lady A,Birthplace not found,"(None, None)",,
+Jess Glynne,London,"(51.5074456, -0.1277653)",51.5074456,-0.1277653
+Konnan,Santiago de Cuba,"(20.0214637, -75.8294928)",20.0214637,-75.8294928
+RaÃºl Esparza,Birthplace not found,"(None, None)",,
+Alessia Cara,Mississauga,"(43.5896231, -79.6443879)",43.5896231,-79.6443879
+Bruce Hornsby,Williamsburg,"(37.2708788, -76.7074042)",37.2708788,-76.7074042
+Midge Ure,Cambuslang,"(55.8191936, -4.1685904)",55.8191936,-4.1685904
+Ray Manzarek,Chicago,"(41.8755616, -87.6244212)",41.8755616,-87.6244212
+In Flames,Birthplace not found,"(None, None)",,
+Diana Krall,Birthplace not found,"(None, None)",,
+Taylor York,Birthplace not found,"(None, None)",,
+Harry Chapin,Brooklyn,"(40.6526006, -73.9497211)",40.6526006,-73.9497211
+The Hives,Birthplace not found,"(None, None)",,
+Jharrel Jerome,Birthplace not found,"(None, None)",,
+The Roots,Birthplace not found,"(None, None)",,
+5 Seconds of Summer,Birthplace not found,"(None, None)",,
+Vicente FernÃ¡ndez,Birthplace not found,"(None, None)",,
+Eve,Philadelphia,"(39.9527237, -75.1635262)",39.9527237,-75.1635262
+Ethel Merman,Astoria,"(46.1882007, -123.8319802)",46.1882007,-123.8319802
+Mallika Sarabhai,Ahmedabad,"(23.0216238, 72.5797068)",23.0216238,72.5797068
+Tamar Braxton,Severn,"(39.1278864, -76.6869128)",39.1278864,-76.6869128
+Brian McKnight,Buffalo,"(42.8867166, -78.8783922)",42.8867166,-78.8783922
+David Essex,Plaistow,"(51.5311544, 0.0166833)",51.5311544,0.0166833
+Nazia Hassan,Karachi,"(24.8546842, 67.0207055)",24.8546842,67.0207055
+Donny Hathaway,Chicago,"(41.8755616, -87.6244212)",41.8755616,-87.6244212
+Martine McCutcheon,London Borough of Hackney,"(51.54888185, -0.047669054262764424)",51.54888185,-0.047669054262764424
+BoA,Guri,"(36.7539231, 59.3543237)",36.7539231,59.3543237
+Men at Work,Birthplace not found,"(None, None)",,
+Randy Bachman,Winnipeg,"(49.8955367, -97.1384584)",49.8955367,-97.1384584
+The-Dream,Atlanta,"(33.7489924, -84.3902644)",33.7489924,-84.3902644
+Bobby Womack,Birthplace not found,"(None, None)",,
+John Cale,Garnant,"(51.8000888, -3.9043208)",51.8000888,-3.9043208
+Anthony Field,Birthplace not found,"(None, None)",,
+Ian Anderson,Dunfermline,"(56.0713724, -3.4616183)",56.0713724,-3.4616183
+The Zombies,Birthplace not found,"(None, None)",,
+Public Enemy,Birthplace not found,"(None, None)",,
+Morten Harket,Kongsberg Municipality,"(55.4534272, 12.1769084)",55.4534272,12.1769084
+Derek Trucks,Birthplace not found,"(None, None)",,
+Tegan and Sara,Birthplace not found,"(None, None)",,
+Anastacia,Chicago,"(41.8755616, -87.6244212)",41.8755616,-87.6244212
+Culture Club,Birthplace not found,"(None, None)",,
+Kumar Sanu,Kolkata,"(22.5726459, 88.3638953)",22.5726459,88.3638953
+Victoria Wood,Prestwich,"(53.5304274, -2.2960186)",53.5304274,-2.2960186
+Terry O'Quinn,Sault Ste. Marie,"(46.52391, -84.320068)",46.52391,-84.320068
+Stefflon Don,Birmingham,"(52.4796992, -1.9026911)",52.4796992,-1.9026911
+Carole Bayer Sager,Brooklyn,"(40.6526006, -73.9497211)",40.6526006,-73.9497211
+Arcade Fire,Birthplace not found,"(None, None)",,
+Dan Fogler,Brooklyn,"(40.6526006, -73.9497211)",40.6526006,-73.9497211
+Toni Basil,Philadelphia,"(39.9527237, -75.1635262)",39.9527237,-75.1635262
+Michael Ball,Bromsgrove,"(52.3353816, -2.0597449)",52.3353816,-2.0597449
+Neneh Cherry,Stockholm,"(59.3251172, 18.0710935)",59.3251172,18.0710935
+Nirvana,Birthplace not found,"(None, None)",,
+Jane Horrocks,Rawtenstall,"(53.7012824, -2.2862723)",53.7012824,-2.2862723
+Noddy Holder,Walsall,"(52.5847949, -1.9822687)",52.5847949,-1.9822687
+Pierce the Veil,Birthplace not found,"(None, None)",,
+Omega,Bonao,"(18.9417804, -70.4112889)",18.9417804,-70.4112889
+Magnet,Bergen,"(60.3943055, 5.3259192)",60.3943055,5.3259192
+En Vogue,Birthplace not found,"(None, None)",,
+Ian Gillan,Chiswick,"(51.4923137, -0.263818)",51.4923137,-0.263818
+Mai Tai,Birthplace not found,"(None, None)",,
+RenÃ©e Elise Goldsberry,Birthplace not found,"(None, None)",,
+Keri Hilson,Decatur,"(39.8454163, -88.9524151)",39.8454163,-88.9524151
+Yunjin Kim,Seoul,"(37.5666791, 126.9782914)",37.5666791,126.9782914
+Kym Marsh,Whiston,"(53.4169156, -2.7905803)",53.4169156,-2.7905803
+Howard Donald,Droylsden,"(53.4786034, -2.1491964)",53.4786034,-2.1491964
+Clint Black,Long Branch,"(40.3042778, -73.9923596)",40.3042778,-73.9923596
+Vic Mignogna,Greensburg,"(40.3014581, -79.5389289)",40.3014581,-79.5389289
+Alex Lifeson,Birthplace not found,"(None, None)",,
+Carroll Baker,Birthplace not found,"(None, None)",,
+Peter Kay,Farnworth,"(53.5485989, -2.3969984)",53.5485989,-2.3969984
+Dweezil Zappa,Birthplace not found,"(None, None)",,
+Barry Bostwick,San Mateo,"(37.496904, -122.3330573)",37.496904,-122.3330573
+Gil Scott-Heron,Chicago,"(41.8755616, -87.6244212)",41.8755616,-87.6244212
+Edgar Winter,Beaumont,"(30.0860459, -94.1018461)",30.0860459,-94.1018461
+Chris Colfer,Clovis,"(36.8252277, -119.7029194)",36.8252277,-119.7029194
+Amanda Lear,Ho Chi Minh City,"(10.7763897, 106.7011391)",10.7763897,106.7011391
+Adam Clayton,Birthplace not found,"(None, None)",,
+Hector,7th arrondissement of Paris,"(48.8774799, 2.31765)",48.8774799,2.31765
+Johnny Winter,Beaumont,"(30.0860459, -94.1018461)",30.0860459,-94.1018461
+Shweta Mohan,Thiruvananthapuram,"(8.4882267, 76.947551)",8.4882267,76.947551
+Katie Melua,Kutaisi,"(42.2588629, 42.662991965434514)",42.2588629,42.662991965434514
+Martin Garrix,Birthplace not found,"(None, None)",,
+Heather Headley,Barataria,"(29.704083500000003, -90.11145959181923)",29.704083500000003,-90.11145959181923
+Crowded House,Birthplace not found,"(None, None)",,
+Hwasa,Jeonju,"(35.8237631, 127.1472805)",35.8237631,127.1472805
+CeCe Winans,Detroit,"(42.3315509, -83.0466403)",42.3315509,-83.0466403
+Devi Sri Prasad,Vedurupaka,"(17.2076792, 81.851724)",17.2076792,81.851724

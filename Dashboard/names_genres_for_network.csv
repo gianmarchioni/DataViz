@@ -1,0 +1,997 @@
+Artist,Genre
+Taylor Swift,Pop
+XXXTentacion,Rock
+Alia Bhatt,Unspecified
+Tina Turner,Rock
+Keanu Reeves,Hip Hop
+Rihanna,Other
+Bruce Willis,Unspecified
+Michael Jackson,Jazz and Blues
+Ryan Gosling,Rock
+Selena Gomez,Rock
+Whitney Houston,Pop
+Miley Cyrus,Rock
+Scarlett Johansson,Pop
+Hannah Waddingham,Unspecified
+Eminem,Hip Hop
+Kanye West,Hip Hop
+Florence Pugh,Unspecified
+Priyanka Chopra,Pop
+Tupac Shakur,Hip Hop
+Freddie Mercury,Rock
+George Michael,Jazz and Blues
+Zendaya,Pop
+Johnny Depp,Rock
+Madonna,Other
+Cher,Rock
+Adam Sandler,Unspecified
+Dua Lipa,Other
+Salma Hayek,Unspecified
+Robert Downey Jr.,Jazz and Blues
+Shaquille O'Neal,Hip Hop
+Bradley Cooper,Unspecified
+Olivia Rodrigo,Pop
+Britney Spears,Pop
+Mark Wahlberg,Hip Hop
+Shakira,Rock
+Lady Gaga,Pop
+David Bowie,Hip Hop
+John Cena,Hip Hop
+Salman Khan,Unspecified
+Elton John,Rock
+Raquel Welch,Unspecified
+Jimmy Buffett,Pop
+BTS,Pop
+The Beatles,Rock
+Austin Butler,Pop
+Joaquin Phoenix,Unspecified
+Katy Perry,Rock
+Kate Winslet,Unspecified
+Billie Eilish,Pop
+Ezra Miller,Unspecified
+John Travolta,Pop
+The Weeknd,Hip Hop
+Jennifer Connelly,Other
+Lewis Capaldi,Pop
+Nicole Kidman,Unspecified
+Gwyneth Paltrow,Unspecified
+Ed Sheeran,Hip Hop
+Will Smith,Hip Hop
+Victoria Beckham,Pop
+Snoop Dogg,Other
+Jackie Chan,Other
+Jamie Foxx,Hip Hop
+Anne Hathaway,Unspecified
+Bad Bunny,Other
+Brie Larson,Pop
+Daniel Radcliffe,Unspecified
+Paris Hilton,Pop
+Fleetwood Mac,Jazz and Blues
+Nick Cannon,Hip Hop
+Stevie Nicks,Rock
+Mariah Carey,Hip Hop
+Russell Brand,Unspecified
+Europe,Rock
+Bob Marley,Other
+Doja Cat,Hip Hop
+Amy Winehouse,Jazz and Blues
+Eddie Murphy,Other
+Post Malone,Rock
+Nicki Minaj,Hip Hop
+Mary Elizabeth Winstead,Unspecified
+Kim Petras,Pop
+Justin Timberlake,Pop
+Ozzy Osbourne,Rock
+Shia LaBeouf,Other
+Zooey Deschanel,Pop
+Suzanne Somers,Unspecified
+Jeff Beck,Jazz and Blues
+Brenda Song,Pop
+River Phoenix,Rock
+Catherine Zeta-Jones,Unspecified
+Mick Jagger,Rock
+Jared Leto,Rock
+Bob Dylan,Jazz and Blues
+Barbra Streisand,Jazz and Blues
+Hailee Steinfeld,Pop
+Adele,Jazz and Blues
+Niall Horan,Pop
+Sam Smith,Pop
+Shania Twain,Rock
+Phil Collins,Rock
+Hugh Jackman,Unspecified
+Patrick Swayze,Unspecified
+Zayn Malik,Pop
+Jack Black,Rock
+Julia Louis-Dreyfus,Unspecified
+Tim Curry,Other
+ZoÃ« Kravitz,Unspecified
+Carrie Fisher,Unspecified
+Anna Kendrick,Pop
+Jay-Z,Hip Hop
+The Notorious B.I.G.,Hip Hop
+Rajinikanth,Unspecified
+Amitabh Bachchan,Unspecified
+Robert Pattinson,Unspecified
+Gwen Stefani,Rock
+The Rolling Stones,Rock
+Travis Scott,Hip Hop
+Zac Efron,Unspecified
+Rita Ora,Other
+Metallica,Rock
+Jesse Plemons,Unspecified
+Robbie Williams,Other
+Kate Hudson,Unspecified
+Cardi B,Hip Hop
+Michael Keaton,Unspecified
+Dakota Fanning,Unspecified
+Mayim Bialik,Unspecified
+Matthew Broderick,Unspecified
+Kylie Minogue,Other
+Awkwafina,Hip Hop
+Joe Alwyn,Unspecified
+Chicago,Other
+Lainey Wilson,Country
+Amanda Seyfried,Unspecified
+Aaliyah,Rock
+Steven Seagal,Country
+Avril Lavigne,Rock
+Dave Grohl,Rock
+Kirsten Dunst,Unspecified
+50 Cent,Hip Hop
+Sally Field,Unspecified
+Jada Pinkett Smith,Hip Hop
+Gillian Anderson,Unspecified
+Ewan McGregor,Unspecified
+Antonio Banderas,Unspecified
+Bruce Springsteen,Rock
+Lily James,Unspecified
+Sean Combs,Hip Hop
+Lionel Richie,Pop
+Ice Cube,Hip Hop
+Andrew Garfield,Other
+Angela Bassett,Unspecified
+Michelle Pfeiffer,Pop
+Russell Crowe,Country
+Steve Harvey,Other
+Selena,Pop
+Kelly Clarkson,Pop
+Chris Brown,Hip Hop
+R. Kelly,Hip Hop
+Lynyrd Skynyrd,Rock
+Goldie Hawn,Unspecified
+Jimi Hendrix,Rock
+Tyler Perry,Other
+ABBA,Pop
+Bruno Mars,Other
+Olivia Newton-John,Pop
+Kiefer Sutherland,Unspecified
+Jack Antonoff,Pop
+Grimes,Other
+Avicii,Other
+Tracy Chapman,Rock
+Yoko Ono,Other
+Jane Birkin,Pop
+Led Zeppelin,Rock
+Rod Stewart,Rock
+Joey King,Unspecified
+Keke Palmer,Hip Hop
+Eric Clapton,Jazz and Blues
+N. T. Rama Rao Jr.,Unspecified
+Bee Gees,Rock
+Joe Pesci,Other
+Lizzo,Hip Hop
+Kris Kristofferson,Country
+Depeche Mode,Rock
+Guns N' Roses,Rock
+Hayden Panettiere,Unspecified
+Amy Adams,Unspecified
+Lenny Kravitz,Other
+Kristen Bell,Unspecified
+Donald Glover,Hip Hop
+David Crosby,Rock
+Taron Egerton,Unspecified
+Stevie Wonder,Jazz and Blues
+Dr. Dre,Hip Hop
+Ranveer Singh,Unspecified
+Kamal Haasan,Unspecified
+Steven Yeun,Unspecified
+Billy Joel,Rock
+Red Hot Chili Peppers,Rock
+Whoopi Goldberg,Other
+Janet Jackson,Pop
+Seth MacFarlane,Unspecified
+Viggo Mortensen,Country
+Keerthy Suresh,Unspecified
+John Denver,Rock
+Zachary Levi,Unspecified
+Jon Bon Jovi,Pop
+Linda Ronstadt,Other
+Demi Lovato,Unspecified
+Catherine O'Hara,Unspecified
+Jack Harlow,Hip Hop
+KSI,Unspecified
+Alanis Morissette,Rock
+Vanessa Paradis,Rock
+Chevy Chase,Unspecified
+Megan Thee Stallion,Hip Hop
+Bill Cosby,Unspecified
+Kendrick Lamar,Hip Hop
+Meghan Trainor,Pop
+Don Johnson,Jazz and Blues
+Maya Rudolph,Unspecified
+Allu Arjun,Unspecified
+Jisoo,Other
+Shirley Temple,Unspecified
+Steven Tyler,Rock
+Sanjay Dutt,Unspecified
+Tom Petty,Rock
+Billy Bob Thornton,Other
+Toni Collette,Unspecified
+Tammy Wynette,Country
+Cat Stevens,Rock
+Janis Joplin,Jazz and Blues
+Danny Elfman,Other
+Leighton Meester,Rock
+Ian McShane,Country
+Bella Thorne,Rock
+Hugh Laurie,Jazz and Blues
+Martin Short,Unspecified
+Ann-Margret,Pop
+Sidhu Moose Wala,Hip Hop
+Lin-Manuel Miranda,Other
+Idina Menzel,Other
+John Mayer,Jazz and Blues
+David Foster,Other
+Alice Cooper,Rock
+Lauryn Hill,Other
+Queen Latifah,Jazz and Blues
+Marc Anthony,Pop
+Barry Manilow,Pop
+Damian Lillard,Unspecified
+Peso Pluma,Other
+Brigitte Nielsen,Other
+Elisabeth Shue,Unspecified
+David Lynch,Other
+Katey Sagal,Pop
+RuPaul,Other
+Dove Cameron,Pop
+Neil Young,Jazz and Blues
+Sarah Silverman,Unspecified
+Robert Plant,Rock
+The Beach Boys,Rock
+Hayley Williams,Pop
+Tim McGraw,Country
+Peter Gabriel,Rock
+Tessa Thompson,Unspecified
+Andy Samberg,Unspecified
+Neil Patrick Harris,Unspecified
+Joni Mitchell,Jazz and Blues
+Brandi Carlile,Rock
+Donna Summer,Pop
+John Goodman,Unspecified
+Hans Zimmer,Other
+Billy Ray Cyrus,Country
+Rita Wilson,Pop
+Kim Basinger,Other
+Mandy Moore,Pop
+David Byrne,Rock
+John Stamos,Rock
+Neil Diamond,Other
+Golshifteh Farahani,Unspecified
+Andrea Bocelli,Other
+Pawan Kalyan,Unspecified
+Chris Farley,Unspecified
+Paul Bettany,Unspecified
+Beverly D'Angelo,Unspecified
+Backstreet Boys,Pop
+BjÃ¶rk,Unspecified
+Kid Rock,Rock
+The Chicks,Country
+Kristin Chenoweth,Pop
+Dan Aykroyd,Unspecified
+Blake Shelton,Country
+Jonathan Groff,Unspecified
+Brian May,Rock
+Taraji P. Henson,Unspecified
+Camila Cabello,Pop
+A. R. Rahman,Other
+Jonas Brothers,Pop
+Beastie Boys,Rock
+Allen Iverson,Unspecified
+Chris Stapleton,Country
+Alyssa Milano,Pop
+Ice-T,Hip Hop
+Creedence Clearwater Revival,Rock
+Bono,Rock
+Bebe Rexha,Hip Hop
+Andrew Lloyd Webber,Other
+Manny Pacquiao,Unspecified
+Morrissey,Rock
+Alicia Keys,Hip Hop
+Imagine Dragons,Rock
+Brian Wilson,Rock
+Paula Abdul,Pop
+Minnie Driver,Pop
+Ariana DeBose,Unspecified
+Cyndi Lauper,Jazz and Blues
+Lee Majors,Country
+Steven Van Zandt,Rock
+Patrick Wilson,Rock
+Barbados,Other
+Molly Ringwald,Unspecified
+LL Cool J,Hip Hop
+Meat Loaf,Rock
+Big Bang,Pop
+U2,Rock
+Pharrell Williams,Rock
+Vincent D'Onofrio,Unspecified
+Jason Alexander,Unspecified
+Arctic Monkeys,Rock
+Naya Rivera,Pop
+Frank Ocean,Hip Hop
+John Legend,Pop
+Tory Lanez,Other
+MÃ¥neskin,Unspecified
+Nelly,Hip Hop
+Lana Rhoades,Unspecified
+Nancy Sinatra,Jazz and Blues
+Carrie Underwood,Pop
+Krysten Ritter,Unspecified
+Megan Mullally,Unspecified
+Wesley Snipes,Unspecified
+Eugene Levy,Unspecified
+Michael Richards,Other
+Becky G,Pop
+Iron Maiden,Rock
+Penny Marshall,Unspecified
+Chaz Bono,Unspecified
+Mike Myers,Unspecified
+Radiohead,Rock
+Grace Jones,Pop
+Iggy Azalea,Other
+Coolio,Hip Hop
+Duran Duran,Rock
+Miranda Cosgrove,Pop
+Vanessa Williams,Hip Hop
+Daisy Ridley,Unspecified
+Kid Cudi,Rock
+Mohanlal,Other
+The Cure,Rock
+Lil Nas X,Hip Hop
+Shelley Duvall,Unspecified
+Damon Albarn,Rock
+Charlotte Gainsbourg,Rock
+ZZ Top,Rock
+RZA,Hip Hop
+Rammstein,Other
+Connie Britton,Country
+Boney M.,Other
+Jessie Buckley,Unspecified
+Adam Levine,Other
+Daveed Diggs,Unspecified
+Keith Urban,Country
+Sara Ramirez,Unspecified
+Joe Walsh,Rock
+Sheryl Crow,Rock
+Tom Felton,Unspecified
+Greta Van Fleet,Rock
+Abigail Breslin,Unspecified
+Jenny Slate,Unspecified
+Michael McKean,Unspecified
+Fall Out Boy,Rock
+Scandinavia,Rock
+Ludacris,Hip Hop
+Kate Bush,Other
+Iggy Pop,Rock
+Shawn Mendes,Pop
+H.E.R.,Other
+Bo Burnham,Other
+Garth Brooks,Country
+Alabama,Country
+Hiroyuki Sanada,Other
+The Mamas & the Papas,Rock
+Jon Batiste,Jazz and Blues
+Linda McCartney,Rock
+Don Henley,Rock
+Van Halen,Rock
+Maya Angelou,Other
+Bryan Adams,Rock
+Kesha,Pop
+Asia Argento,Other
+Annie Lennox,Rock
+James Taylor,Rock
+Jack White,Jazz and Blues
+Keith David,Unspecified
+Aerosmith,Rock
+Faith Hill,Country
+Tyler James Williams,Unspecified
+Carly Simon,Pop
+Rage Against the Machine,Rock
+Nelly Furtado,Hip Hop
+Anthony Ramos,Unspecified
+Billie Piper,Pop
+Jonathan Rhys Meyers,Unspecified
+Alex Borstein,Unspecified
+Stevie Ray Vaughan,Jazz and Blues
+Jussie Smollett,Other
+Arijit Singh,Rock
+Norah Jones,Jazz and Blues
+Sarah Polley,Unspecified
+Ben Platt,Unspecified
+LeAnn Rimes,Pop
+Daft Punk,Other
+Bon Jovi,Rock
+Dianna Agron,Jazz and Blues
+John Mellencamp,Rock
+Jason Mraz,Jazz and Blues
+Trey Parker,Unspecified
+Toby Keith,Country
+Israel KamakawiwoÊ»ole,Unspecified
+Patti Smith,Rock
+Luther Vandross,Other
+Grateful Dead,Rock
+Ethan Slater,Other
+Rob Zombie,Rock
+Drew Carey,Unspecified
+Shreya Ghoshal,Pop
+Destiny's Child,Hip Hop
+Steely Dan,Jazz and Blues
+Mary J. Blige,Hip Hop
+Arrested Development,Other
+Martha Plimpton,Unspecified
+David Gilmour,Rock
+The Band,Rock
+Mark Ronson,Pop
+Randy Travis,Country
+Rajesh Khanna,Unspecified
+Mandy Patinkin,Unspecified
+Nick Cave,Other
+Chance the Rapper,Hip Hop
+Isabela Merced,Pop
+Jessie J,Pop
+Burna Boy,Other
+Danny Glover,Country
+Mark Knopfler,Jazz and Blues
+Tom Waits,Jazz and Blues
+Cybill Shepherd,Unspecified
+New Kids on the Block,Pop
+Keith Carradine,Country
+Michael BublÃ©,Unspecified
+Sheryl Lee Ralph,Unspecified
+Tyler Childers,Other
+Sissy Spacek,Country
+Wayne Brady,Unspecified
+Willow Smith,Rock
+Chris Jericho,Rock
+Lou Reed,Rock
+The Yardbirds,Other
+George Strait,Country
+Lorde,Other
+Charlie Puth,Pop
+Terrence Howard,Unspecified
+Tanya Tucker,Country
+Pentatonix,Other
+Taryn Manning,Rock
+Leslie Odom Jr.,Unspecified
+Billy Connolly,Unspecified
+Dire Straits,Rock
+Hank Williams Jr.,Jazz and Blues
+Missy Elliott,Hip Hop
+Kane Brown,Country
+RenÃ© AngÃ©lil,Unspecified
+Carlos Santana,Rock
+Rosie O'Donnell,Unspecified
+Billy Crystal,Other
+Desi Arnaz,Unspecified
+Cailee Spaeny,Unspecified
+Ricky Martin,Other
+Enya,Other
+Ramones,Rock
+Michael Bolton,Rock
+Tia Carrere,Rock
+Traveling Wilburys,Rock
+Jerry Garcia,Other
+Jason Derulo,Hip Hop
+The Temptations,Rock
+The Monkees,Rock
+Bette Midler,Pop
+Amandla Stenberg,Unspecified
+Glenn Frey,Rock
+Beck,Rock
+The Pogues,Rock
+Lynda Carter,Unspecified
+Wiz Khalifa,Hip Hop
+Lucy Lawless,Unspecified
+David Cross,Rock
+David Hasselhoff,Pop
+Kristy McNichol,Unspecified
+AnnaSophia Robb,Unspecified
+Addison Rae,Pop
+Sufjan Stevens,Other
+Skrillex,Other
+Phylicia Rashad,Unspecified
+Bonnie Raitt,Jazz and Blues
+Trent Reznor,Rock
+Jane Lynch,Unspecified
+Joanne Whalley,Unspecified
+T.I.,Hip Hop
+Ayushmann Khurrana,Unspecified
+Miranda Lambert,Country
+Joy Division,Other
+Riz Ahmed,Hip Hop
+MÃ©lanie Laurent,Unspecified
+Bebe Neuwirth,Unspecified
+Max Martin,Rock
+Gregg Allman,Jazz and Blues
+Alan Jackson,Country
+Amy Irving,Unspecified
+Han Hyo-joo,Unspecified
+Elvis Costello,Rock
+The Jackson 5,Pop
+Josh Gad,Unspecified
+Julio Iglesias,Pop
+M. M. Keeravani,Other
+Bob Geldof,Rock
+Sasha Grey,Other
+Jay Leno,Unspecified
+Jeff Lynne,Rock
+Television,Other
+Macklemore,Hip Hop
+Chocolate,Other
+Prabhu Deva,Unspecified
+Isaac Hayes,Other
+Ne-Yo,Hip Hop
+Bob Seger,Rock
+John Mahoney,Unspecified
+Farhan Akhtar,Rock
+Todd Rundgren,Rock
+John Deacon,Rock
+Lyle Lovett,Country
+Brian Eno,Other
+Earth,Other
+Luis Enrique,Other
+Vince Gill,Country
+Lele Pons,Unspecified
+Jason Isbell,Rock
+Kelly Rowland,Hip Hop
+The Byrds,Rock
+Cynthia Erivo,Other
+The Kid Laroi,Other
+Dolphin,Other
+Frank Stallone,Pop
+Shabana Azmi,Unspecified
+Freema Agyeman,Unspecified
+Serj Tankian,Other
+Pete Townshend,Rock
+Chaka Khan,Jazz and Blues
+Finneas O'Connell,Pop
+Peter Frampton,Rock
+Diplo,Other
+Brandy,Other
+Kenny Chesney,Country
+Joe Cocker,Jazz and Blues
+Laura Bailey,Unspecified
+Alan Thicke,Unspecified
+Gilda Radner,Unspecified
+Dingo,Other
+Jackson Browne,Rock
+Electric Light Orchestra,Rock
+Bill Wyman,Rock
+Chyler Leigh,Unspecified
+Derek Hough,Pop
+Vanilla Ice,Hip Hop
+Toni Braxton,Other
+Nithya Menen,Unspecified
+Nine Inch Nails,Rock
+David Guetta,Hip Hop
+Buffy Sainte-Marie,Other
+The Kinks,Rock
+Nile Rodgers,Pop
+John Green,Other
+Naomi Judd,Country
+Ann Wilson,Rock
+Kiersey Clemons,Unspecified
+Carly Rae Jepsen,Pop
+Anna Camp,Unspecified
+Adrienne Barbeau,Unspecified
+Jim Varney,Unspecified
+Phil Lynott,Rock
+Lauren Daigle,Other
+Timbaland,Rock
+The Pussycat Dolls,Pop
+Colman Domingo,Unspecified
+The Prodigy,Rock
+Sean Paul,Other
+Maren Morris,Country
+Katt Williams,Hip Hop
+The Moody Blues,Other
+Richard Kind,Unspecified
+Irene Cara,Pop
+Rashid Khan,Other
+Natalia Tena,Unspecified
+Michael Palin,Unspecified
+Stephen Stills,Rock
+Delta Goodrem,Pop
+Pat Benatar,Rock
+Belle Delphine,Other
+Barry White,Other
+Village People,Pop
+Harry Connick Jr.,Jazz and Blues
+Lucie Arnaz,Unspecified
+The Clash,Rock
+BjÃ¶rn Ulvaeus,Unspecified
+Christine and the Queens,Pop
+Mos Def,Hip Hop
+Jermaine Jackson,Pop
+Laura Benanti,Unspecified
+Graham Nash,Rock
+Maroon 5,Rock
+Lee Byung-hun,Unspecified
+Ghost,Other
+Patti LuPone,Unspecified
+Daryl Hall,Pop
+Johnny Marr,Rock
+Dwight Yoakam,Country
+Brendon Urie,Rock
+Susan Lucci,Unspecified
+Sanaa Lathan,Unspecified
+Gary Barlow,Pop
+Saweetie,Hip Hop
+Debbie Allen,Unspecified
+Ryan Bingham,Jazz and Blues
+Tamera Mowry,Unspecified
+GÃ©rard Depardieu,Unspecified
+Luis Miguel,Pop
+Mark Salling,Unspecified
+JhenÃ© Aiko,Unspecified
+Yungblud,Pop
+Kim Jong-hyun,Other
+Javed Akhtar,Unspecified
+Randy Newman,Jazz and Blues
+Charlotte Rampling,Pop
+Stormzy,Other
+Bindi Irwin,Unspecified
+Neil Peart,Rock
+Carice van Houten,Unspecified
+Tenacious D,Rock
+Dilraba Dilmurat,Unspecified
+Tyra Banks,Unspecified
+The Pretenders,Rock
+Lea Salonga,Other
+Kathie Lee Gifford,Unspecified
+Jeezy,Hip Hop
+Mare Winningham,Unspecified
+Jim Cummings,Unspecified
+Grant Gustin,Unspecified
+PJ Harvey,Rock
+Benny Andersson,Rock
+Amy Grant,Pop
+Billy Gibbons,Jazz and Blues
+The Allman Brothers Band,Rock
+Merle Haggard,Country
+Falling in Reverse,Pop
+Bonnie Tyler,Rock
+Timbuktu,Hip Hop
+Steve Kazee,Unspecified
+Matthias SchweighÃ¶fer,Unspecified
+No Doubt,Rock
+Tila Tequila,Hip Hop
+Isabelle Adjani,Unspecified
+Kazuo Ishiguro,Other
+Randy Rhoads,Rock
+Kenny Loggins,Country
+Swizz Beatz,Hip Hop
+Li Bingbing,Unspecified
+ThalÃ­a,Unspecified
+The Hollies,Rock
+Metta Sandiford-Artest,Unspecified
+Michael Nesmith,Pop
+Sturgill Simpson,Country
+Cilla Black,Pop
+MC Hammer,Hip Hop
+Emmylou Harris,Other
+Jeffree Star,Hip Hop
+Daddy Yankee,Hip Hop
+Sophie Marceau,Unspecified
+Sonny Chiba,Other
+Darren Criss,Pop
+Siouxsie Sioux,Rock
+Steve Vai,Rock
+Nusrat Fateh Ali Khan,Other
+Kapil Sharma,Unspecified
+Peter Gallagher,Unspecified
+Lindsey Stirling,Other
+Sulli,Pop
+S Club 7,Pop
+Jodi Benson,Pop
+Roxette,Rock
+Eric Idle,Unspecified
+Donovan,Rock
+Geddy Lee,Rock
+Matt Bellamy,Other
+Brad Paisley,Country
+Mumford & Sons,Rock
+Benjamin Zephaniah,Unspecified
+Logic,Rock
+Lesley Ann Warren,Unspecified
+Bill Withers,Pop
+Bon Iver,Rock
+Roberta Flack,Jazz and Blues
+Rauw Alejandro,Hip Hop
+Three 6 Mafia,Hip Hop
+Kacey Musgraves,Country
+The Pointer Sisters,Jazz and Blues
+Tobias Forge,Rock
+John Oates,Rock
+Denny Doherty,Pop
+Sarah Brightman,Other
+Gregory Hines,Unspecified
+Rick Springfield,Rock
+Iwan Rheon,Other
+Cypress Hill,Hip Hop
+Stromae,Hip Hop
+John Prine,Other
+Leona Lewis,Pop
+Da'Vine Joy Randolph,Unspecified
+Autumn,Other
+Melissa Etheridge,Rock
+The Edge,Rock
+Gotye,Rock
+Vani Jairam,Unspecified
+George Ezra,Jazz and Blues
+Rosanne Cash,Country
+Amy Madigan,Unspecified
+Maluma,Hip Hop
+Mark Selby,Rock
+Psy,Pop
+Jeff Healey,Jazz and Blues
+Marianne Faithfull,Rock
+Marie Fredriksson,Pop
+Rob Brydon,Unspecified
+New Edition,Hip Hop
+Jacob Collier,Jazz and Blues
+Bryan Ferry,Rock
+Ilaiyaraaja,Unspecified
+Nightwish,Other
+Christopher Cross,Rock
+Haydn Gwynne,Unspecified
+Sepultura,Rock
+Yuvan Shankar Raja,Unspecified
+Rita Marley,Other
+Ziggy Marley,Other
+Alison Krauss,Country
+Shane Dawson,Pop
+Peter Criss,Rock
+Joe Bonamassa,Jazz and Blues
+S. P. Balasubrahmanyam,Other
+Twenty One Pilots,Other
+Sutton Foster,Unspecified
+Gram Parsons,Country
+Tom Hulce,Unspecified
+Trivikram Srinivas,Unspecified
+Tones and I,Pop
+Sheridan Smith,Other
+Nina Hoss,Unspecified
+Dee Bradley Baker,Unspecified
+Jane's Addiction,Rock
+Tony Iommi,Rock
+Zara Larsson,Pop
+Arnel Pineda,Rock
+Sheila E.,Other
+Trisha Yearwood,Country
+Crystal Gayle,Jazz and Blues
+Olivia d'Abo,Unspecified
+Giorgio Moroder,Other
+Anita Baker,Other
+Chow Yun-fat,Pop
+Roger Allam,Unspecified
+David Coverdale,Rock
+Big Sean,Hip Hop
+Sarah McLachlan,Rock
+Arshad Warsi,Unspecified
+Sheena Easton,Pop
+Sonu Nigam,Rock
+Buffalo Springfield,Rock
+Tuva Novotny,Unspecified
+Thomas Bangalter,Other
+Run-DMC,Hip Hop
+Townes Van Zandt,Jazz and Blues
+Moira Kelly,Unspecified
+Ryan Tedder,Pop
+Tomorrow X Together,Pop
+Patrick Stump,Rock
+G-Dragon,Pop
+Beef,Other
+Paul Weller,Pop
+Franka Potente,Unspecified
+Len Cariou,Unspecified
+Ray Davies,Rock
+Eurythmics,Pop
+Ashley McBryde,Country
+Anne Murray,Pop
+Harvey Fierstein,Unspecified
+Carla Bruni,Pop
+Diane Warren,Pop
+The Go-Go's,Rock
+Astrud Gilberto,Other
+Timothy B. Schmit,Rock
+The Guess Who,Rock
+Kraftwerk,Other
+Little Simz,Hip Hop
+John Entwistle,Rock
+Aaron Tveit,Unspecified
+John Barrowman,Other
+Jasmine Guy,Pop
+Annaleigh Ashford,Unspecified
+D12,Hip Hop
+August Alsina,Hip Hop
+Nick Mason,Rock
+Hayley Kiyoko,Pop
+Helen Reddy,Pop
+Lenny Henry,Unspecified
+Modern Talking,Pop
+Wizkid,Other
+Mick Hucknall,Pop
+Tim Minchin,Jazz and Blues
+Sunidhi Chauhan,Other
+Julie Delpy,Other
+Gulzar,Unspecified
+Roxy Music,Other
+Owl City,Pop
+Pedro AlmodÃ³var,Unspecified
+Rain,Other
+Lou Gramm,Rock
+Bernard Tapie,Unspecified
+Tracey Ullman,Pop
+Bobbie Gentry,Country
+Christopher Atkins,Unspecified
+Jinkx Monsoon,Unspecified
+Alan Menken,Other
+Hootie & the Blowfish,Rock
+James Marsters,Rock
+Itzy,Hip Hop
+Craig Bierko,Unspecified
+Wyclef Jean,Other
+Bob Weir,Rock
+Mike Oldfield,Other
+Liza Soberano,Unspecified
+Tove Lo,Pop
+Marina Diamandis,Pop
+Bachmanâ€“Turner Overdrive,Unspecified
+Cheyenne Jackson,Unspecified
+Wang Yibo,Pop
+Jay Chou,Rock
+John Farnham,Rock
+Francis Magalona,Hip Hop
+Roger Whittaker,Other
+J Balvin,Hip Hop
+Smiley,Other
+Shu Qi,Other
+Noa Kirel,Hip Hop
+Guy-Manuel de Homem-Christo,Other
+Typhoon,Other
+Udit Narayan,Other
+Beverley Knight,Jazz and Blues
+Counting Crows,Rock
+Andy Lau,Other
+Manic Street Preachers,Rock
+Billy Ocean,Pop
+Betty Buckley,Unspecified
+Kelly Bishop,Unspecified
+Anika Noni Rose,Unspecified
+Dixie Carter,Unspecified
+Neal Schon,Jazz and Blues
+KC and the Sunshine Band,Pop
+Mamta Mohandas,Unspecified
+Jonny Greenwood,Other
+Bushido,Hip Hop
+Guy Sebastian,Pop
+TiÃ«sto,Unspecified
+JosÃ© Feliciano,Unspecified
+John Paul Jones,Rock
+Jill Hennessy,Unspecified
+Steve Earle,Jazz and Blues
+Rufus Wainwright,Pop
+Lou Doillon,Unspecified
+2 Chainz,Hip Hop
+Dixie D'Amelio,Pop
+Madelaine Petsch,Unspecified
+Michael Parks,Unspecified
+Ahmed Best,Unspecified
+Vishal Bhardwaj,Unspecified
+Grandmaster Flash,Hip Hop
+Atif Aslam,Pop
+Mithoon,Unspecified
+Romeo Santos,Other
+Marla Gibbs,Unspecified
+Beverley Mitchell,Country
+Carly Pearce,Country
+Marty Stuart,Country
+Lady A,Country
+Jess Glynne,Other
+Konnan,Unspecified
+RaÃºl Esparza,Unspecified
+Alessia Cara,Pop
+Bruce Hornsby,Rock
+Midge Ure,Rock
+Ray Manzarek,Jazz and Blues
+In Flames,Rock
+Diana Krall,Jazz and Blues
+Taylor York,Rock
+Harry Chapin,Other
+The Hives,Rock
+Jharrel Jerome,Unspecified
+The Roots,Jazz and Blues
+5 Seconds of Summer,Rock
+Vicente FernÃ¡ndez,Unspecified
+Eve,Other
+Ethel Merman,Pop
+Mallika Sarabhai,Unspecified
+Tamar Braxton,Pop
+Brian McKnight,Pop
+David Essex,Rock
+Nazia Hassan,Pop
+Donny Hathaway,Jazz and Blues
+Martine McCutcheon,Pop
+BoA,Pop
+Men at Work,Other
+Randy Bachman,Rock
+The-Dream,Hip Hop
+Bobby Womack,Other
+John Cale,Other
+Anthony Field,Other
+Ian Anderson,Rock
+The Zombies,Rock
+Public Enemy,Hip Hop
+Morten Harket,Pop
+Derek Trucks,Jazz and Blues
+Tegan and Sara,Rock
+Anastacia,Rock
+Culture Club,Pop
+Kumar Sanu,Other
+Victoria Wood,Other
+Terry O'Quinn,Unspecified
+Stefflon Don,Hip Hop
+Carole Bayer Sager,Pop
+Arcade Fire,Rock
+Dan Fogler,Unspecified
+Toni Basil,Pop
+Michael Ball,Pop
+Neneh Cherry,Jazz and Blues
+Nirvana,Rock
+Jane Horrocks,Unspecified
+Noddy Holder,Rock
+Pierce the Veil,Rock
+Omega,Rock
+Magnet,Other
+En Vogue,Hip Hop
+Ian Gillan,Rock
+Mai Tai,Unspecified
+RenÃ©e Elise Goldsberry,Unspecified
+Keri Hilson,Hip Hop
+Yunjin Kim,Unspecified
+Kym Marsh,Pop
+Howard Donald,Pop
+Clint Black,Country
+Vic Mignogna,Unspecified
+Alex Lifeson,Rock
+Carroll Baker,Country
+Peter Kay,Unspecified
+Dweezil Zappa,Rock
+Barry Bostwick,Unspecified
+Gil Scott-Heron,Jazz and Blues
+Edgar Winter,Jazz and Blues
+Chris Colfer,Unspecified
+Amanda Lear,Pop
+Adam Clayton,Rock
+Hector,Other
+Johnny Winter,Jazz and Blues
+Shweta Mohan,Unspecified
+Katie Melua,Jazz and Blues
+Martin Garrix,Other
+Heather Headley,Other
+Crowded House,Rock
+Hwasa,Jazz and Blues
+CeCe Winans,Other
+Devi Sri Prasad,Other
